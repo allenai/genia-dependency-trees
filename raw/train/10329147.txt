@@ -1,0 +1,9 @@
+Recognition of NFATp/AP-1 composite elements within genes induced upon the activation of immune cells.
+Composite elements are regulatory modules of promoters or enhancers that consist of binding sites of two different but synergizing transcription factors.
+A well-studied example is nuclear factors of activated T-cell (NFAT) sites which are composite elements of a NFATp/c and an activating protein 1 (AP-1) binding site.
+We have developed a computational approach to identify potential NFAT target genes which (a) comprises an improved method to scan for individual NFAT composite elements; (b) considers positional effects relative to transcription start sites; and (c) involves cluster analysis of potential NFAT composite elements.
+All three steps progressively helpX?ed to discriminate T-cell-specific promoter sequences against other functional regions (coding and intronic sequences) of the same genes, against promoters of muscle-specific genes or against random sequences.
+Using this approach, we identified potential NFAT composite elements in promoters of cytokine genes and their receptors as well as in promoters of genes for AP-1 family members, Ca2+-binding proteins and some other components of the regulatory network operating in activated T-cells and other immune cells.
+The method developed can be adapted to characterize and identify other composite elements as well.
+The program for recognition NFAT composite elements is available through the World Wide Web (http://compel.bionet.nsc.ru/FunSite/CompelScan.html and http://transfac.gbf.de/dbsearch/funsitep/s_comp.html).
+Copyright 1999 Academic Press.

@@ -1,0 +1,9 @@
+T-helper-cell determinants in protein antigens are preferentially located in cysteine-rich antigen segments resistant to proteolytic cleavage by cathepsin B, L, and D.
+We report on a computer algorithm capable of predicting the location of T-helper-cell epitopes in protein antigen (Ag) by analysing the Ag amino acid sequence.
+The algorithm was constructed with the aim of identifying segments in Ag which are resistant to proteolytic degradation by the enzymes cathepsin B, L, and D.
+These are prominent enzymes in the endocytic pathway through which soluble protein Ag enter APC, and resistant segments in Ag may, therefore, be expected to contain more T-cell determinants than susceptible segments.
+From information available in the literature on the substrate specificity of the three enzymes, it is clear that a cysteine is not accepted in any of the S2, S1, S1', and S2' subsites of cathepsin B and L, and not in the S1 and S1' subsites of cathepsin D.
+Moreover, we have noticed that cysteine-containing T-cell determinants in a number of protein Ag are particularly rich in the amino acids alanine, glycine, lysine, leucine, serine, threonine, and valine.
+By searching protein Ag for clusters of amino acids containing cysteine and two of the other amino acids we were able to predict 17 out of 23 empirically known T-cell determinants in the Ag with a relatively low number of false (positive) predictions.
+Furthermore, we present a new principle for searching Ag for potential amphipatic alpha-helical protein segments.
+Such segments accord well with empirically known T-cell determinants and our algorithm produces a lower number of false positive predictions than the principle based on discrete Fourier transformations previously described.
