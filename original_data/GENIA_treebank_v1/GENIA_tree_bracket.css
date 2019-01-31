@@ -1,0 +1,22 @@
+PMID, ArticleTitle, AbstractText {display: block}
+PMID:before, ArticleTitle:before, AbstractText:before {font-style:bold}
+PMID:before			{content: "##PMID"}
+ArticleTitle:before	{content: "##TITLE"}
+AbstractText:before	{content: "##ABSTRACT"}
+
+sentence {
+	display: block;
+	border: thin solid black;
+	margin-top: 0.5em; margin-bottom: 0.5em;
+	padding-top: 0.5em; padding-bottom: 0.5em;
+}
+
+cons:before {
+	content: "(" attr(cat) " ";
+	color: blue;
+}
+
+cons:after {
+	content: ")";
+	color: blue;
+}

@@ -1,0 +1,173 @@
+<!-- ============================================================ -->
+<!-- DTD for Genia corpus with tree annotation                    -->
+<!-- written by Jin-Dong Kim <jdkim@tsujii.is.s.u-tokyo.ac.jp>    -->
+<!-- Date of last modification: November 11 2005                  -->
+<!-- ============================================================ -->
+
+<!-- ============================================================ -->
+<!-- Labels for tree annotation                                   -->
+<!-- ============================================================ -->
+<!ENTITY % cat.class "(
+ADJ |
+ADJP |
+ADVP |
+COMP |
+CONJP |
+FRAG |
+LST |
+NP |
+PP |
+PRN |
+PRT |
+QP |
+RRC |
+S |
+SBAR |
+SBARQ |
+SINV |
+SQ |
+UCP |
+VP |
+WHADJP |
+WHADVP |
+WHNP |
+WHPP
+)">
+
+<!ENTITY % role.class "(
+SBJ |
+LGS | 
+DTV | 
+PRD | 
+VOC |
+PUT 
+)">
+
+<!ENTITY % tpc.class "(
+TPC
+)">
+
+<!ENTITY % func.class "(
+NOM | 
+ADV 
+)">
+
+<!ENTITY % adv.class "(
+TMP
+)">
+
+<!ENTITY % misc.class "(
+CLF |
+HLN | 
+TTL | 
+CLR 
+)">
+
+<!ENTITY % syn.class "(
+COOD
+)">
+
+<!ENTITY % null.class "(
+T |
+NONE |
+ZERO |
+QSTN |
+RNR |
+ICH |
+EXP |
+NOT
+)">
+
+<!ENTITY % tok.cat.class "(
+CC |
+CD |
+COLON |
+COMMA |
+DT |
+EX |
+FW |
+IN |
+JJ |
+JJR |
+JJS |
+LQT |
+LRB |
+LS |
+MD |
+NN |
+NNP |
+NNPS |
+NNS |
+PDT |
+PERIOD |
+POS |
+PRP |
+PRPP |
+RB |
+RBR |
+RBS |
+RP |
+RQT |
+RRB |
+SYM |
+TO |
+VB |
+VBD |
+VBG |
+VBN |
+VBP |
+VBZ |
+WDT |
+WP |
+WPP |
+WRB
+)">
+
+<!-- ============================================================ -->
+<!-- HIERARCHICAL ELEMENTS                                        -->
+<!-- ============================================================ -->
+<!ELEMENT Annotation (PubmedArticleSet)>
+<!ATTLIST Annotation
+		annotates CDATA #IMPLIED
+		creator   CDATA #IMPLIED
+		created   CDATA #IMPLIED
+>
+
+<!ELEMENT PubmedArticleSet (PubmedArticle)>
+<!ELEMENT PubmedArticle (MedlineCitation)>
+<!ELEMENT MedlineCitation (PMID, Article)>
+<!ELEMENT Article (ArticleTitle, Abstract)>
+<!ELEMENT Abstract (AbstractText)>
+
+<!-- ============================================================ -->
+<!-- BLOCK ELEMENTS                                               -->
+<!-- ============================================================ -->
+<!ELEMENT ArticleTitle (sentence)+>
+<!ELEMENT AbstractText (sentence+)>
+<!ELEMENT PMID (#PCDATA)>
+
+<!-- ============================================================ -->
+<!-- LINGUISTIC ELEMENTS                                          -->
+<!-- ============================================================ -->
+<!ELEMENT sentence (cons)+>
+<!ATTLIST sentence id ID #REQUIRED>
+
+<!ELEMENT cons (#PCDATA | cons | tok)*>
+<!ATTLIST cons
+		cat	%cat.class;	#REQUIRED
+		role	%role.class;	#IMPLIED
+		tpc	%tpc.class;	#IMPLIED
+		func	%func.class;	#IMPLIED
+		adv	%adv.class;	#IMPLIED
+		misc	%misc.class;	#IMPLIED
+		syn	%syn.class;	#IMPLIED
+		null	%null.class;	#IMPLIED
+		id 	ID		#IMPLIED
+		ref	IDREF		#IMPLIED
+		map	IDREF		#IMPLIED
+>
+
+<!ELEMENT tok (#PCDATA)>
+<!ATTLIST tok
+		cat	%tok.cat.class;	#REQUIRED
+>

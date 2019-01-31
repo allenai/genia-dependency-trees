@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Annotation>
+<?xml-stylesheet type="text/css" href="GENIA_tree_bracket.css"?>
+<Annotation>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation>
+<PMID>8504248</PMID>
+<Article>
+<ArticleTitle><sentence id="S1"><cons cat="NP"><cons cat="NP"><tok cat="NN">Regulation</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="NN">beta-globin</tok> <tok cat="NN">locus</tok></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></ArticleTitle>
+<Abstract>
+<AbstractText><sentence id="S2"><cons cat="S"><cons cat="NP" role="SBJ"><cons cat="NP"><tok cat="NN">Transcription</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">human</tok> <tok cat="NN">beta-globin</tok> <tok cat="NN">gene</tok> <tok cat="NN">cluster</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBZ">depends</tok> <cons cat="PP"><tok cat="IN">upon</tok> <cons cat="NP"><cons cat="NP"><tok cat="JJ">upstream</tok> <tok cat="JJ">regulatory</tok> <tok cat="NNS">sequences</tok></cons><tok cat="COMMA">,</tok> <cons cat="SBAR"><cons cat="WHNP" id="i24"><tok cat="WDT">which</tok></cons> <cons cat="S"><cons cat="NP" ref="i24" id="i101" role="SBJ" null="T"></cons><cons cat="VP"><tok cat="VBP">are</tok> <cons cat="VP"><cons cat="ADVP"><tok cat="RB">collectively</tok></cons> <tok cat="VBN">termed</tok> <cons cat="S"><cons cat="NP" ref="i101" role="SBJ" null="NONE"></cons><cons cat="NP" role="PRD"><tok cat="DT">the</tok> <tok cat="NN">locus</tok> <tok cat="NN">control</tok> <tok cat="NN">region</tok></cons></cons></cons></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S3"><cons cat="S"><cons cat="NP" role="SBJ"><tok cat="JJ">Recent</tok> <tok cat="NNS">studies</tok></cons> <cons cat="VP"><tok cat="VBP">have</tok> <cons cat="VP"><tok cat="VBN">provided</tok> <cons cat="NP"><cons cat="NP"><tok cat="JJ">new</tok> <tok cat="NNS">insights</tok></cons> <cons cat="PP"><tok cat="IN">into</tok> <cons cat="SBAR"><cons cat="WHADVP" id="i25"><tok cat="WRB">how</tok></cons> <cons cat="S"><cons cat="NP" id="i26" role="SBJ"><cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">individual</tok> <tok cat="NNS">genes</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="NN">cluster</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBP">are</tok> <cons cat="VP"><tok cat="VBN">regulated</tok> <cons cat="NP" ref="i26" null="NONE"></cons><cons cat="PP"><tok cat="IN">through</tok> <cons cat="NP"><tok cat="NN">development</tok></cons></cons><cons cat="ADVP" ref="i25" null="T"></cons></cons></cons></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S4"><cons cat="S"><cons cat="NP" role="SBJ"><cons cat="NP"><tok cat="DT">The</tok> <tok cat="NN">crux</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="JJ">transcriptional</tok> <tok cat="NN">activation</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBZ">is</tok> <cons cat="SBAR" role="PRD"><cons cat="WHADVP" id="i27"><tok cat="WRB">how</tok></cons> <cons cat="S"><cons cat="NP" role="SBJ"><tok cat="DT">the</tok> <tok cat="NN">locus</tok> <tok cat="NN">control</tok> <tok cat="NN">region</tok></cons> <cons cat="VP"><tok cat="VBZ">communicates</tok> <cons cat="PP"><tok cat="IN">with</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">gene-proximal</tok> <tok cat="JJ">regulatory</tok> <tok cat="NNS">elements</tok></cons></cons><cons cat="ADVP" ref="i27" null="T"></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></AbstractText>
+</Abstract>
+</Article>
+</MedlineCitation>
+</PubmedArticle>
+</PubmedArticleSet>
+</Annotation>

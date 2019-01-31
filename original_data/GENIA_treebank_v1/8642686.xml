@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Annotation>
+<?xml-stylesheet type="text/css" href="GENIA_tree_bracket.css"?>
+<Annotation>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation>
+<PMID>8642686</PMID>
+<Article>
+<ArticleTitle><sentence id="S1"><cons cat="S"><cons cat="NP" role="SBJ"><tok cat="DT">The</tok> <tok cat="JJ">Epstein-Barr</tok> <tok cat="JJ">virus-encoded</tok> <tok cat="JJ">nuclear</tok> <tok cat="NN">antigen</tok> <tok cat="NN">EBNA-5</tok></cons> <cons cat="VP"><tok cat="VBZ">accumulates</tok> <cons cat="PP"><tok cat="IN">in</tok> <cons cat="NP"><tok cat="JJ">PML-containing</tok> <tok cat="NNS">bodies</tok></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></ArticleTitle>
+<Abstract>
+<AbstractText><sentence id="S2"><cons cat="S"><cons cat="NP" role="SBJ"><tok cat="NN">EBNA-5</tok></cons> <cons cat="VP"><tok cat="VBZ">is</tok> <cons cat="NP" role="PRD"><cons cat="NP"><tok cat="CD">one</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">Epstein-Barr</tok> <tok cat="NN">virus</tok> <tok cat="LRB">(</tok><tok cat="NN">EBV</tok><tok cat="RRB">)</tok><tok cat="JJ">-encoded</tok> <tok cat="JJ">nuclear</tok> <tok cat="NNS">proteins</tok></cons> <cons cat="VP"><tok cat="VBN">required</tok> <cons cat="NP" null="NONE"></cons><cons cat="PP"><tok cat="IN">for</tok> <cons cat="NP"><cons cat="NP"><tok cat="NN">immortalization</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="JJ">human</tok> <tok cat="NN">B</tok> <tok cat="NNS">lymphocytes</tok></cons></cons></cons></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S3"><cons cat="S"><cons cat="PP"><tok cat="IN">In</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">the</tok> <tok cat="NNS">nuclei</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="JJ">EBV-transformed</tok> <tok cat="JJ">lymphoblastoid</tok> <tok cat="NN">cell</tok> <tok cat="NNS">lines</tok></cons></cons></cons></cons> <cons cat="NP" id="i1" role="SBJ"><tok cat="NN">EBNA-5</tok></cons> <cons cat="VP"><tok cat="VBZ">is</tok> <cons cat="ADVP"><tok cat="RB">preferentially</tok></cons> <cons cat="VP"><tok cat="VBN">targetted</tok> <cons cat="NP" ref="i1" null="NONE"></cons><cons cat="PP"><tok cat="TO">to</tok> <cons cat="NP"><tok cat="JJ">distinct</tok> <tok cat="JJ">nuclear</tok> <tok cat="NNS">foci</tok></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S4"><cons cat="S"><cons cat="ADVP"><tok cat="RB">Previously</tok></cons> <cons cat="NP" role="SBJ"><tok cat="PRP">we</tok></cons> <cons cat="VP"><tok cat="VBP">have</tok> <cons cat="VP"><tok cat="VBN">shown</tok> <cons cat="PRN"><tok cat="LRB">(</tok><cons cat="NP"><cons cat="NP" syn="COOD"><cons cat="NP"><tok cat="NNP">W.Q.</tok> <tok cat="NNP">Jiang</tok></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NNP">L.Szekely</tok></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NNP">V.Wendel-Hansen</tok></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NNP">N.Ringertz</tok></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NNP">G.Klein</tok></cons><tok cat="COMMA">,</tok> <tok cat="CC">and</tok> <cons cat="NP"><tok cat="NNP">A.</tok> <tok cat="NNP">Rosen</tok></cons></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NNP">Exp.Cell</tok> <tok cat="NNP">Res</tok></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></AbstractText>
+</Abstract>
+</Article>
+</MedlineCitation>
+</PubmedArticle>
+</PubmedArticleSet>
+</Annotation>

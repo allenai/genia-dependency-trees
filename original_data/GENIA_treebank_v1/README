@@ -1,0 +1,33 @@
+GENIA treebank corpus version 1.
+
+The corpus contains 1999 Medline abstracts.
+The texts are segmented into sentences and each sentence is annotated with a Penn Treebank-style phrase-structure parse.
+
+For the encoding scheme of the corpus, please refer to the following document:
+
+- Jin-Dong Kim, Tomoko Ohta, Yuka Teteisi and Jun'ichi Tsujii, GENIA Corpus Manual - Encoding schemes for the corpus and annotation, Technical Report(TR-NLP-UT-2006-1), Tsujii Laboratory, University of Tokyo, 2006.
+
+@techreport{jdkim:2006a,
+author = "Kim, Jin-Dong and Tomoko Ohta and Yuka Teteisi and Jun'ichi Tsujii",
+title = "GENIA Corpus Manual - Encoding schemes for the corpus and annotation",
+series = "Technical Report",
+number = "TR-NLP-UT-2006-1",
+publisher = "Tsujii Laboratory, University of Tokyo",
+year = "2006",
+pdf = "http://www-tsujii.is.s.u-tokyo.ac.jp/%7Ejdkim/publications/GENIA_Corpus_Manual.pdf",
+}
+
+
+Please cite the following paper if you publish or present any research result obtained using the GENIA treebank corpus:
+
+- Yuka Tateisi, Akane Yakushiji, Tomoko Ohta and Jun'ichi Tsujii, Syntax Annotation for the GENIA corpus, In the Proceedings of the IJCNLP 2005, Companion volume, pp. 222-227.
+
+@inproceedings{yucca:2005,
+author = "Tateisi, Yuka and Akane Yakushiji and Tomoko Ohta and Jun'ichi Tsujii",
+title = "Syntax Annotation for the GENIA corpus",
+booktitle = "Proceedings of the IJCNLP 2005, Companion volume",
+pages = "222--227",
+month = "October",
+year = "2005",
+pdf = "http://www-tsujii.is.s.u-tokyo.ac.jp/%7Eyucca/papers/IJCNLP-poster-GTB.pdf",
+}

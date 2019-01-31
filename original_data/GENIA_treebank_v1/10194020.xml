@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Annotation>
+<?xml-stylesheet type="text/css" href="GENIA_tree_bracket.css"?>
+<Annotation>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation>
+<PMID>10194020</PMID>
+<Article>
+<ArticleTitle><sentence id="S1"><cons cat="NP"><cons cat="NP"><tok cat="NN">Evidence</tok></cons> <cons cat="PP"><tok cat="IN">for</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">a</tok> <tok cat="JJ">polyclonal</tok> <tok cat="NN">etiology</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="JJ">palmar</tok> <tok cat="NNS">fibromatosis</tok></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></ArticleTitle>
+<Abstract>
+<AbstractText><sentence id="S2"><cons cat="S"><cons cat="NP" id="i9" role="SBJ"><cons cat="NP"><tok cat="NN">X</tok> <tok cat="NN">chromosome</tok> <tok cat="NN">inactivation</tok> <tok cat="NNS">patterns</tok></cons> <cons cat="PP"><tok cat="IN">at</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="NN">androgen</tok> <tok cat="NN">receptor</tok> <tok cat="NN">locus</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBD">were</tok> <cons cat="VP"><tok cat="VBN">evaluated</tok> <cons cat="NP" ref="i9" null="NONE"></cons><cons cat="S" func="ADV"><cons cat="NP" role="SBJ" null="NONE"></cons><cons cat="VP"><tok cat="TO">to</tok> <cons cat="VP"><tok cat="VB">determine</tok> <cons cat="NP"><cons cat="NP"><tok cat="NN">clonality</tok></cons> <cons cat="PP" syn="COOD"><cons cat="PP"><tok cat="IN">in</tok> <cons cat="NP"><tok cat="JJ">microdissected</tok> <tok cat="JJ">lesional</tok> <tok cat="NN">tissue</tok></cons></cons> <tok cat="CC">and</tok> <cons cat="PP"><tok cat="IN">in</tok> <cons cat="NP"><cons cat="NP"><tok cat="NNS">leukocytes</tok></cons> <cons cat="PP"><tok cat="IN">from</tok> <cons cat="NP"><cons cat="NP"><tok cat="CD">2</tok> <tok cat="NNS">women</tok></cons> <cons cat="PP"><tok cat="IN">with</tok> <cons cat="NP"><cons cat="NP"><tok cat="NN">Dupuytren</tok><tok cat="POS">'s</tok></cons> <tok cat="NN">disease</tok></cons></cons></cons></cons></cons></cons></cons></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S3"><cons cat="S"><cons cat="NP" role="SBJ"><cons cat="NP"><tok cat="DT">The</tok> <tok cat="NN">tissue</tok></cons> <cons cat="PP"><tok cat="IN">from</tok> <cons cat="NP"><tok cat="DT">both</tok> <tok cat="NNS">patients</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBD">generated</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">a</tok> <tok cat="JJ">polyclonal</tok> <tok cat="NN">pattern</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><cons cat="NP"><tok cat="NN">X</tok> <tok cat="NN">chromosome</tok> <tok cat="NN">inactivation</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">human</tok> <tok cat="NN">androgen</tok> <tok cat="NN">receptor</tok> <tok cat="NN">gene</tok></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S4"><cons cat="S"><cons cat="NP" role="SBJ"><tok cat="DT">This</tok> <tok cat="NN">finding</tok></cons> <cons cat="VP"><tok cat="VBZ">supports</tok> <cons cat="NP"><tok cat="DT">a</tok> <tok cat="JJ">polyclonal</tok> <tok cat="JJ">reactive</tok> <tok cat="NN">process</tok></cons> <cons cat="PP"><tok cat="IN">as</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">the</tok> <tok cat="JJ">underlying</tok> <tok cat="NN">etiology</tok></cons> <cons cat="PP"><tok cat="IN">for</tok> <cons cat="NP"><tok cat="JJ">palmar</tok> <tok cat="NNS">fibromatosis</tok></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></AbstractText>
+</Abstract>
+</Article>
+</MedlineCitation>
+</PubmedArticle>
+</PubmedArticleSet>
+</Annotation>

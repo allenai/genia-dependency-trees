@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Annotation>
+<?xml-stylesheet type="text/css" href="GENIA_tree_bracket.css"?>
+<Annotation>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation>
+<PMID>9018790</PMID>
+<Article>
+<ArticleTitle><sentence id="S1"><cons cat="NP"><cons cat="NP"><cons cat="NP"><tok cat="NN">Evaluation</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="JJ">monoclonal</tok> <tok cat="JJ">anti-D</tok> <tok cat="NNS">reagents</tok></cons></cons> <cons cat="VP"><tok cat="VBG">using</tok> <cons cat="NP"><tok cat="NN">D</tok> <tok cat="JJ">variant</tok> <tok cat="NNS">cells</tok></cons></cons><tok cat="PERIOD">.</tok></cons></cons></sentence></ArticleTitle>
+<Abstract>
+<AbstractText><sentence id="S2"><cons cat="S"><cons cat="S"><cons cat="NP" id="i5" role="SBJ"><cons cat="NP"><tok cat="JJ">Monoclonal</tok> <tok cat="JJ">anti-D</tok> <tok cat="NNS">antibodies</tok></cons> <cons cat="VP"><tok cat="VBN">submitted</tok> <cons cat="NP" null="NONE"></cons><cons cat="PP"><tok cat="TO">to</tok> <cons cat="NP"><tok cat="DT">the</tok> <tok cat="NNP">Third</tok> <tok cat="NNP">Monoclonal</tok> <tok cat="NNP">International</tok> <tok cat="NNP">Workshop</tok></cons></cons></cons></cons> <cons cat="VP"><tok cat="VBD">were</tok> <cons cat="VP"><tok cat="VBN">evaluated</tok> <cons cat="NP" ref="i5" null="NONE"></cons><cons cat="PP"><tok cat="IN">against</tok> <cons cat="NP"><cons cat="NP"><tok cat="DT">a</tok> <tok cat="NN">number</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP"><tok cat="NN">D</tok> <tok cat="JJ">variant</tok> <tok cat="NNS">cells</tok></cons></cons></cons></cons></cons> <cons cat="S" func="ADV"><cons cat="NP" role="SBJ" null="NONE"></cons><cons cat="VP"><tok cat="VBG">using</tok> <cons cat="NP"><cons cat="ADJP" syn="COOD"><cons cat="ADJP"><tok cat="JJ">standard</tok></cons> <cons cat="ADJP"><tok cat="JJ">serological</tok></cons></cons> <tok cat="NNS">techniques</tok></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></cons></sentence>
+<sentence id="S3"><cons cat="S"><cons cat="NP" id="i6" role="SBJ"><tok cat="DT">The</tok> <cons cat="NP"><tok cat="JJ">monoclonal</tok> <tok cat="NNS">antibodies</tok></cons></cons> <cons cat="VP"><tok cat="VBD">were</tok> <cons cat="ADJP" role="PRD"><tok cat="JJ">able</tok> <cons cat="S"><cons cat="NP" ref="i6" role="SBJ" null="NONE"></cons><cons cat="VP"><tok cat="TO">to</tok> <cons cat="VP"><tok cat="VB">discriminate</tok> <cons cat="PP"><tok cat="IN">between</tok> <cons cat="NP" syn="COOD"><cons cat="NP"><cons cat="NP"><tok cat="DT">the</tok> <tok cat="NNS">cells</tok></cons> <cons cat="PP"><tok cat="IN">of</tok> <cons cat="NP" syn="COOD"><tok cat="NNS">Categories</tok> <cons cat="NP"><tok cat="NN">Va</tok></cons><tok cat="COMMA">,</tok> <cons cat="NP"><tok cat="NN">VI</tok></cons> <tok cat="CC">and</tok> <cons cat="NP"><tok cat="NN">DFR</tok></cons></cons></cons></cons> <cons cat="CONJP"><tok cat="CC">but</tok> <tok cat="RB">not</tok></cons> <cons cat="NP"><tok cat="NN">Category</tok> <tok cat="CD">III</tok> <tok cat="NNS">cells</tok></cons></cons></cons></cons></cons></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S4"><cons cat="S"><cons cat="NP" role="SBJ"><cons cat="NP"><tok cat="NNS">Cells</tok></cons> <cons cat="PP"><tok cat="IN">within</tok> <cons cat="NP"><tok cat="DT">each</tok> <tok cat="NN">category</tok></cons></cons></cons> <cons cat="VP"><tok cat="VBD">did</tok> <tok cat="RB">not</tok> <cons cat="VP"><tok cat="VB">give</tok> <cons cat="NP"><tok cat="DT">any</tok> <tok cat="JJ">aberrant</tok> <tok cat="NNS">results</tok></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence>
+<sentence id="S5"><cons cat="S"><cons cat="NP" role="SBJ"><tok cat="DT">The</tok> <cons cat="NP"><tok cat="NN">Rh</tok><tok cat="COLON">:</tok><tok cat="CD">33</tok> <tok cat="NNS">cells</tok></cons></cons> <cons cat="VP"><tok cat="VBD">behaved</tok> <cons cat="PP"><tok cat="IN">as</tok> <cons cat="NP"><tok cat="JJ">normal</tok> <tok cat="NN">Rh</tok><tok cat="LRB">(</tok><tok cat="NN">D</tok><tok cat="RRB">)</tok> <tok cat="JJ">positive</tok> <tok cat="NNS">cells</tok></cons></cons></cons><tok cat="PERIOD">.</tok></cons></sentence></AbstractText>
+</Abstract>
+</Article>
+</MedlineCitation>
+</PubmedArticle>
+</PubmedArticleSet>
+</Annotation>
