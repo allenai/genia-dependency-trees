@@ -1,0 +1,552 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8139041</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>04</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A transcriptional regulatory element is associated with a nuclease-hypersensitive site in the pol gene of human immunodeficiency virus type 1.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2632-48</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Analysis of the chromatin organization of the integrated human immunodeficiency virus type 1 (HIV-1) genome has previously revealed a major constitutive DNase I-hypersensitive site associated with the pol gene (E. Verdin, J. Virol. 65:6790-6799, 1991). In the present report, high-resolution mapping of this site with DNase I and micrococcal nuclease identified a nucleosome-free region centered around nucleotides (nt) 4490 to 4766. A 500-bp fragment encompassing this hypersensitive site (nt 4481 to 4982) exhibited transcription-enhancing activity (two- to threefold) when it was cloned in its natural position with respect to the HIV-1 promoter after transient transfection in U937 and CEM cells. Using in vitro footprinting and gel shift assays, we have identified four distinct binding sites for nuclear proteins within this positive regulatory element. Site B (nt 4519 to 4545) specifically bound four distinct nuclear protein complexes: a ubiquitous factor, a T-cell-specific factor, a B-cell-specific factor, and the monocyte/macrophage- and B-cell-specific transcription factor PU.1/Spi-1. In most HIV-1 isolates in which this PU box was not conserved, it was replaced by a binding site for the related factor Ets1. Factors binding to site C (nt 4681 to 4701) had a DNA-binding specificity similar to that of factors binding to site B, except for PU.1/Spi-1. A GC box containing a binding site for Sp1 was identified (nt 4623 to 4631). Site D (nt 4816 to 4851) specifically bound a ubiquitously expressed factor. These results identify a transcriptional regulatory element associated with a nuclease-hypersensitive site in the pol gene of HIV-1 and suggest that its activity may be controlled by a complex interplay of cis-regulatory elements.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Van Lint</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Viral and Molecular Pathogenesis, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland 20892.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghysdael</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paras</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burny</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verdin</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004279">DNA, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016329">Sp1 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.21.1</RegistryNumber>
+                <NameOfSubstance UI="D003850">Deoxyribonuclease I</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Dec;65(12):7066-72</RefSource>
+                <PMID Version="1">1942259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 1991;45:219-50</RefSource>
+                <PMID Version="1">1741615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 May;13(5):2929-41</RefSource>
+                <PMID Version="1">8474451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1993 Jun;194(2):758-68</RefSource>
+                <PMID Version="1">7684876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Jul;67(7):3885-90</RefSource>
+                <PMID Version="1">8389910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Jul;67(7):4409-14</RefSource>
+                <PMID Version="1">8510229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 Jul 2;261(5117):82-6</RefSource>
+                <PMID Version="1">8316859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Aug;12(8):3249-59</RefSource>
+                <PMID Version="1">8344262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Aug 1;90(15):7298-302</RefSource>
+                <PMID Version="1">8346247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1992 Dec;6(12B):2502-12</RefSource>
+                <PMID Version="1">1340465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1976 May 7;72:248-54</RefSource>
+                <PMID Version="1">942051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1977 Dec;74(12):5463-7</RefSource>
+                <PMID Version="1">271968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1980;65(1):499-560</RefSource>
+                <PMID Version="1">6246368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1983 Mar 11;11(5):1475-89</RefSource>
+                <PMID Version="1">6828386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1983 Jul 1;132(1):6-13</RefSource>
+                <PMID Version="1">6312838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Nov;35(1):79-87</RefSource>
+                <PMID Version="1">6313230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1992 Jan;12(1):368-78</RefSource>
+                <PMID Version="1">1729611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Feb;66(2):875-85</RefSource>
+                <PMID Version="1">1731112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Jan 16;355(6357):219-24</RefSource>
+                <PMID Version="1">1731219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1992 Jan;13(1):22-30</RefSource>
+                <PMID Version="1">1531412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Apr;66(4):2577-82</RefSource>
+                <PMID Version="1">1548783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Mar 20;255(5051):1573-6</RefSource>
+                <PMID Version="1">1347958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 May 1;175(5):1391-9</RefSource>
+                <PMID Version="1">1569404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Apr 24;256(5056):538-42</RefSource>
+                <PMID Version="1">1315077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Jun;66(6):3925-31</RefSource>
+                <PMID Version="1">1533883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1992 Jun;6(6):975-90</RefSource>
+                <PMID Version="1">1592264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1992 Apr;6(4):347-63</RefSource>
+                <PMID Version="1">1616633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1992 Jul;12(7):3262-72</RefSource>
+                <PMID Version="1">1320198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Jul 15;267(20):14204-11</RefSource>
+                <PMID Version="1">1321139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1992 May;3(5):327-34</RefSource>
+                <PMID Version="1">1633115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 1992 Apr;2(2):293-8</RefSource>
+                <PMID Version="1">1638124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>New Biol. 1992 May;4(5):512-9</RefSource>
+                <PMID Version="1">1515415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1992 Oct;12(10):4297-304</RefSource>
+                <PMID Version="1">1406622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 1992 Nov;8(11):365-8</RefSource>
+                <PMID Version="1">1440870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Biol. 1992;8:563-87</RefSource>
+                <PMID Version="1">1335747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1993 Jan 15;211(1-2):7-18</RefSource>
+                <PMID Version="1">8425553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Mar;67(3):1658-62</RefSource>
+                <PMID Version="1">8437235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Mar 5;268(7):5014-20</RefSource>
+                <PMID Version="1">8095266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 May;67(5):2862-70</RefSource>
+                <PMID Version="1">8386280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Dec;35(2 Pt 1):381-92</RefSource>
+                <PMID Version="1">6317184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1984 Nov 8-14;312(5990):159-62</RefSource>
+                <PMID Version="1">6095084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1986 Jul 1;164(1):280-90</RefSource>
+                <PMID Version="1">3014036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1986 Aug;59(2):284-91</RefSource>
+                <PMID Version="1">3016298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Jan;7(1):388-97</RefSource>
+                <PMID Version="1">3031470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 May;84(10):3161-5</RefSource>
+                <PMID Version="1">3472202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Jun;7(6):2256-66</RefSource>
+                <PMID Version="1">3037355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Jul;7(7):2558-67</RefSource>
+                <PMID Version="1">3039350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Dec 24;51(6):1079-90</RefSource>
+                <PMID Version="1">3319186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1987 Mar;1(1):65-74</RefSource>
+                <PMID Version="1">2828161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1987 Nov;1(9):962-72</RefSource>
+                <PMID Version="1">2828177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Feb 5;239(4840):617-22</RefSource>
+                <PMID Version="1">3277274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Feb 15;140(4):1117-22</RefSource>
+                <PMID Version="1">2449497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1988;57:159-97</RefSource>
+                <PMID Version="1">3052270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1988 Oct;8(10):3975-87</RefSource>
+                <PMID Version="1">3141781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Jan 15;142(2):431-8</RefSource>
+                <PMID Version="1">2463307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jul 28;58(2):227-9</RefSource>
+                <PMID Version="1">2665943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Jul 28;245(4916):371-8</RefSource>
+                <PMID Version="1">2667136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1989;170:269-89</RefSource>
+                <PMID Version="1">2770542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1989;58:799-839</RefSource>
+                <PMID Version="1">2673023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Sep 8;58(5):901-10</RefSource>
+                <PMID Version="1">2550139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Dec 1;59(5):827-36</RefSource>
+                <PMID Version="1">2512012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1989 Dec;4(12):1449-56</RefSource>
+                <PMID Version="1">2594367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Apr 6;61(1):113-24</RefSource>
+                <PMID Version="1">2180582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 Apr;64(4):1657-66</RefSource>
+                <PMID Version="1">2319649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1990;8:453-75</RefSource>
+                <PMID Version="1">2188670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Jun;87(12):4874-8</RefSource>
+                <PMID Version="1">2352955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Jun 29;61(7):1165-6</RefSource>
+                <PMID Version="1">2364426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 Aug;64(8):4016-20</RefSource>
+                <PMID Version="1">2370688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 Sep;64(9):4390-8</RefSource>
+                <PMID Version="1">2384920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Oct;9(10):3137-44</RefSource>
+                <PMID Version="1">2209540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Nov 16;63(4):655-7</RefSource>
+                <PMID Version="1">2225069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Nov 1;348(6296):69-73</RefSource>
+                <PMID Version="1">2172833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Sep;4(9):1451-3</RefSource>
+                <PMID Version="1">2253872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Jan;65(1):464-7</RefSource>
+                <PMID Version="1">1985210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Jan 10;349(6305):167-9</RefSource>
+                <PMID Version="1">1986308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Jan 25;64(2):351-63</RefSource>
+                <PMID Version="1">1988152</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1991 Jan;10(1):123-32</RefSource>
+                <PMID Version="1">1989880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 1991 Jan;7(1):9-14</RefSource>
+                <PMID Version="1">2003337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>New Biol. 1990 Jan;2(1):20-31</RefSource>
+                <PMID Version="1">2078551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>New Biol. 1989 Nov;1(2):127-35</RefSource>
+                <PMID Version="1">2562218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>New Biol. 1990 Jul;2(7):621-36</RefSource>
+                <PMID Version="1">2083253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3097-101</RefSource>
+                <PMID Version="1">2014229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1991 May;5(5):820-6</RefSource>
+                <PMID Version="1">1851121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Jul 1;88(13):5670-4</RefSource>
+                <PMID Version="1">2062845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 Jul 5;253(5015):71-4</RefSource>
+                <PMID Version="1">1905842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1991;60:577-630</RefSource>
+                <PMID Version="1">1883204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Dec;65(12):6790-9</RefSource>
+                <PMID Version="1">1942252</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <GeneSymbolList>
+            <GeneSymbol>pol</GeneSymbol>
+        </GeneSymbolList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004279" MajorTopicYN="N">DNA, Viral</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003850" MajorTopicYN="N">Deoxyribonuclease I</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015967" MajorTopicYN="N">Gene Expression Regulation, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005814" MajorTopicYN="N">Genes, Viral</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015751" MajorTopicYN="Y">Genes, pol</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016325" MajorTopicYN="N">HIV Long Terminal Repeat</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012045" MajorTopicYN="N">Regulatory Sequences, Nucleic Acid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012689" MajorTopicYN="N">Sequence Homology, Nucleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016329" MajorTopicYN="N">Sp1 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016662" MajorTopicYN="N">Virus Integration</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8139041</ArticleId>
+            <ArticleId IdType="pmc">PMC236741</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

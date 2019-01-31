@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2024810</PMID>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>06</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-0805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>143</Volume>
+                    <Issue>5 Pt 1</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American review of respiratory disease</Title>
+                <ISOAbbreviation>Am. Rev. Respir. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glucocorticoid receptor characteristics in monocytes of patients with corticosteroid-resistant bronchial asthma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1020-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mechanism of corticosteroid resistance in bronchial asthma has been studied by determining the rank order of potency for different corticosteroids in inhibiting the generation of a 3 kD molecule from peripheral blood monocytes isolated from corticosteroid-sensitive (CS) and corticosteroid-resistant (CR) asthmatic subjects, which augments leukotriene B4 (LTB4) generation by human neutrophils (PMN) stimulated by calcium ionophore. In addition, binding studies with (3H) dexamethasone have been performed to determine the dissociation constant (Kd) and receptor numbers (Ro) in the monocytes of these two groups of subjects. The concentration of corticosteroid producing 50% inhibition (IC50) was 600 nM, 70 nM, and 0.5 nM for hydrocortisone, methylprednisolone, and dexamethasone, respectively, in monocytes from CS individuals. There was only weak inhibition of the generation of enhancing activity by the corticosteroids in the CR asthmatic individuals. The dexamethasone Kd was 2.45 +/- 0.58 nM (mean +/- SEM, n = 6) in the CS group and 1.6 +/- 0.35 nM (mean +/- SEM, n = 6) in the CR group of patients (p = 0.14). The Ro in the CS group was 3,605 +/- 984 binding sites per nucleus (mean +/- SEM, n = 6) and 4,757 +/- 692 binding sites per nucleus (mean +/- SEM, n = 6) in the CR group (p = 0.23). These findings indicate that corticosteroid resistance in bronchial asthma cannot be explained by abnormalities in corticosteroid receptor characteristics.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lane</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Allergy and Allied Respiratory Disorders, United Medical School, Guy's Hospital, London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>T H</ForeName>
+                    <Initials>TH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am Rev Respir Dis</MedlineTA>
+            <NlmUniqueID>0370523</NlmUniqueID>
+            <ISSNLinking>0003-0805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011965">Receptors, Glucocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C028697">dexamethasone receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X4W7ZR7023</RegistryNumber>
+                <NameOfSubstance UI="D008775">Methylprednisolone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001249" MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003907" MajorTopicYN="N">Dexamethasone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004351" MajorTopicYN="N">Drug Resistance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008775" MajorTopicYN="N">Methylprednisolone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011965" MajorTopicYN="N">Receptors, Glucocorticoid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2024810</ArticleId>
+            <ArticleId IdType="doi">10.1164/ajrccm/143.5_Pt_1.1020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

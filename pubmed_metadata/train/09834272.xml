@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9834272</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0016-5085</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>115</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gastroenterology</Title>
+                <ISOAbbreviation>Gastroenterology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Epithelial cell-initiated inflammation plays a crucial role in early tissue damage in amebic infection of human intestine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1446-53</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND &amp; AIMS" NlmCategory="OBJECTIVE">Entamoeba histolytica infection of the intestine can induce severe gut inflammation. The aims of this study were to assess the role of the host inflammatory response in the tissue damage observed with amebiasis and the role of the intestinal epithelial cell in initiating that response.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">E. histolytica infection was established in human intestinal xenografts in severe combined immunodeficient (SCID-HU-INT) mice. Human intestinal epithelial cell inflammatory responses to amebic infection were inhibited by the intraluminal administration of an antisense oligonucleotide to the human p65 subunit of nuclear factor kappaB, and the role of neutrophils in tissue damage observed with amebiasis was studied by depleting neutrophils from SCID-HU-INT mice.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Administration of the antisense oligonucleotide blocked the production of human interleukin 1beta and interleukin 8 by intestinal epithelial cells and inhibited neutrophil influx into the E. histolytica-infected intestinal xenografts. Inhibition of the gut inflammatory response by the antisense oligonucleotide or the depletion of neutrophils from SCID-HU-INT mice blocked the increase in intestinal permeability observed with amebic infection.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Intestinal epithelial cells initiate an inflammatory response with resulting neutrophil-mediated tissue damage in response to E. histolytica infection; this inflammatory cascade can be blocked by inhibiting the transcription of genes regulated by nuclear factor kappaB.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Seydel</LastName>
+                    <ForeName>K B</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanley</LastName>
+                    <ForeName>S L</ForeName>
+                    <Initials>SL</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="N">
+                <Grant>
+                    <GrantID>5T32AI-07172</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-01231</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-30084</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gastroenterology</MedlineTA>
+            <NlmUniqueID>0374630</NlmUniqueID>
+            <ISSNLinking>0016-5085</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016376">Oligonucleotides, Antisense</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000562" MajorTopicYN="N">Amebiasis</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007413" MajorTopicYN="N">Intestinal Mucosa</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016513" MajorTopicYN="N">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009504" MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016376" MajorTopicYN="N">Oligonucleotides, Antisense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010539" MajorTopicYN="N">Permeability</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9834272</ArticleId>
+            <ArticleId IdType="pii">S0016508598006064</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

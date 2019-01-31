@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7894340</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1052-8040</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Season>Winter</Season>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Receptor</Title>
+                <ISOAbbreviation>Receptor</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Changes in triiodothyronine (T3) mononuclear leukocyte receptor kinetics after T3 administration and multiple cold-air exposures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>259-68</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Repeated cold-air exposures increase human triiodothyronine (T3) plasma clearance rates. To study the response of the nuclear T3 receptor (NT3R) in this condition, binding characteristics were analyzed in human mononuclear leukocytes (MNL). In addition, we supplemented one group of individuals with a daily oral replacement dose of T3 to isolate the influence of serum thyroxine (T4) and thyrotropin (TSH) levels on receptor kinetics. The subjects were exposed to cold air (4 degrees C) twice/d, 30 min/exposure, for a total of 80 exposures. The T3-subjects received placebo [n = 8] and the T3 + subjects received T3 (30 micrograms/d) [n = 8] in a double-blind fashion. Mononuclear leukocytes were isolated from peripheral blood before the cold exposure and drug regimen began, and then after every 20 exposures. The dissociation constant (Kd) and maximum binding capacity (MBC) of the NT3R values were log transformed to minimize between-subject variability. In the T3+ group, serum total thyroxine (TT4), free T4 (FT4), and TSH were approx 50% lower than both basal and T3-values. The log10Kd increased 0.304 +/- 0.139 (p &lt; 0.04) and the log10MBC increased 0.49 +/- 0.10 (p &lt; 0.001) in the T3+ subjects compared to baseline. This change in MBC represents a 311% increase in the MBC over baseline and a fivefold increase over placebo-treated subjects. The T3- group showed no change in MBC over the study. These results describe for the first time the rapid modulation of the NT3R in response to the combined influence of cold exposure and reduced circulating T4 and TSH.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>D'Alesandro</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Naval Medical Research Institute, Bethesda, MD 20889-5055.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malik</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>H L</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Homer</LastName>
+                    <ForeName>L D</ForeName>
+                    <Initials>LD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D018848">Controlled Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Receptor</MedlineTA>
+            <NlmUniqueID>9109671</NlmUniqueID>
+            <ISSNLinking>1052-8040</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010919">Placebos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011988">Receptors, Thyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>06LU7C9H1V</RegistryNumber>
+                <NameOfSubstance UI="D014284">Triiodothyronine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-71-5</RegistryNumber>
+                <NameOfSubstance UI="D013972">Thyrotropin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q51BO43MG4</RegistryNumber>
+                <NameOfSubstance UI="D013974">Thyroxine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000222" MajorTopicYN="N">Adaptation, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002467" MajorTopicYN="N">Cell Nucleus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003080" MajorTopicYN="N">Cold Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010919" MajorTopicYN="N">Placebos</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011988" MajorTopicYN="N">Receptors, Thyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013972" MajorTopicYN="N">Thyrotropin</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013974" MajorTopicYN="N">Thyroxine</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014284" MajorTopicYN="N">Triiodothyronine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7894340</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

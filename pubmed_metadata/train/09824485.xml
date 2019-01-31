@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9824485</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-2805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>95</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology</Title>
+                <ISOAbbreviation>Immunology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential effects of protein kinase C inhibitors on fibronectin-induced interleukin-beta gene transcription, protein synthesis and secretion in human monocytic cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>264-71</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Human monocytic cells express interleukin-1beta (IL-1beta) when stimulated with the extracellular matrix glycoprotein, fibronectin (FN). Protein kinase C (PKC) activation is considered important for this process; however, the metabolic steps at which PKC acts upon to mediate the FN-induced IL-1beta response remain unclear. We performed an analysis of the mechanisms by which two PKC inhibitors, Calphostin C and Staurosporine, prevent the FN-induced IL-1beta response. Both inhibitors blocked the secretion of IL-1beta protein into the media of peripheral blood mononuclear cells exposed to FN. Immunoprecipitation analysis revealed that under these circumstances, Calphostin C inhibited the production of IL-1beta protein, whereas Staurosporine allowed protein production, but inhibited its secretion. To determine the mechanisms responsible for these differences, we turned to human U937 promonocytic cells. U937 cells transfected with the human full-length IL-1beta promoter connected to a luciferase reporter gene were submitted to transcription assays, Northern blotting, and DNA electrophoresis mobility gel shift assays. These studies revealed that Calphostin C inhibited the nuclear translocation of the transcription factor activator protein-1 (AP-1) which is considered necessary for FN induction of IL-1beta gene transcription, and prevented the transcription of the IL-1beta gene. In contrast, Staurosporine alone induced AP-1 translocation and stimulation of the gene. Overall, our data indicate that Calphostin C prevents the transcription of the IL-1beta gene thereby inhibiting protein synthesis. Based on the high specificity of this compound for PKC, we conclude that PKC is necessary for FN-induced IL-1beta protein production. In contrast, Staurosporine prevented secretion of IL-1beta by unknown mechanisms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ritzenthaler</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pulmonary &amp; Critical Care Division, Department of Medicine, Atlanta Veterans Affairs Medical Center and Emory University School of Medicine, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roman</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>NL51639</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunology</MedlineTA>
+            <NlmUniqueID>0374672</NlmUniqueID>
+            <ISSNLinking>0019-2805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005353">Fibronectins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007375">Interleukin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009281">Naphthalenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018808">Transcription Factor AP-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance UI="D011493">Protein Kinase C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>H88EPA0A3N</RegistryNumber>
+                <NameOfSubstance UI="D019311">Staurosporine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>I271P23G24</RegistryNumber>
+                <NameOfSubstance UI="C058819">calphostin C</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1976 May 7;72:248-54</RefSource>
+                <PMID Version="1">942051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Res. 1996;15(2):163-78</RefSource>
+                <PMID Version="1">8839784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1986 Mar 3;197(1-2):149-53</RefSource>
+                <PMID Version="1">3949011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1986 Mar 13;135(2):397-402</RefSource>
+                <PMID Version="1">3457562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1987 Apr;162(1):156-9</RefSource>
+                <PMID Version="1">2440339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1988;57:375-413</RefSource>
+                <PMID Version="1">2972252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Sci (Lond). 1989 Mar;76(3):261-3</RefSource>
+                <PMID Version="1">2494015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 Mar 15;159(2):548-53</RefSource>
+                <PMID Version="1">2467670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Jun;108(6):2529-43</RefSource>
+                <PMID Version="1">2472410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1989 Apr 18;28(8):3569-76</RefSource>
+                <PMID Version="1">2787167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1990 Jan;161(1):79-84</RefSource>
+                <PMID Version="1">2295861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 May;9(5):1503-10</RefSource>
+                <PMID Version="1">2328723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Apr 15;266(11):7081-6</RefSource>
+                <PMID Version="1">2016316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Jan 1;148(1):84-91</RefSource>
+                <PMID Version="1">1727877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Nov 1;149(9):3052-8</RefSource>
+                <PMID Version="1">1401931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Feb;120(3):577-85</RefSource>
+                <PMID Version="1">8381117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1993 Jan;53(1):79-85</RefSource>
+                <PMID Version="1">8426095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1993 Mar 15;319(1-2):100-4</RefSource>
+                <PMID Version="1">8454038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Jun 25;268(18):13625-31</RefSource>
+                <PMID Version="1">8514794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Oct 15;268(29):21459-62</RefSource>
+                <PMID Version="1">7691809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Oct 15;268(29):22170-4</RefSource>
+                <PMID Version="1">8408078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Dec 15;151(12):6692-700</RefSource>
+                <PMID Version="1">8258685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 May 1;152(9):4444-54</RefSource>
+                <PMID Version="1">8157962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Aug 15;153(4):1818-24</RefSource>
+                <PMID Version="1">7519214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Sep 1;153(5):2222-33</RefSource>
+                <PMID Version="1">7519645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1994 Dec;8(15):1314-25</RefSource>
+                <PMID Version="1">8001745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Feb 15;154(4):1879-87</RefSource>
+                <PMID Version="1">7836771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Apr 14;268(5208):233-9</RefSource>
+                <PMID Version="1">7716514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 7;270(27):16258-64</RefSource>
+                <PMID Version="1">7608192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 1995 Dec;6(6):657-61</RefSource>
+                <PMID Version="1">8527836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1983 Mar 11;11(5):1475-89</RefSource>
+                <PMID Version="1">6828386</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015152" MajorTopicYN="N">Blotting, Northern</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004586" MajorTopicYN="N">Electrophoresis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005353" MajorTopicYN="N">Fibronectins</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007375" MajorTopicYN="N">Interleukin-1</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000557" MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000557" MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009281" MajorTopicYN="N">Naphthalenes</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011233" MajorTopicYN="N">Precipitin Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011493" MajorTopicYN="N">Protein Kinase C</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019311" MajorTopicYN="N">Staurosporine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018808" MajorTopicYN="N">Transcription Factor AP-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020298" MajorTopicYN="N">U937 Cells</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9824485</ArticleId>
+            <ArticleId IdType="pmc">PMC1364314</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

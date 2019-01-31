@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8344714</PMID>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0165-2478</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>36</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology letters</Title>
+                <ISOAbbreviation>Immunol. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enhancing effect of 17 beta-estradiol on human NK cell activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The in vitro effect of 17 beta-estradiol on NK activity was studied. The proliferation and NK activity of YT-N17 (a human NK-like cell line) were enhanced by 17 beta-estradiol (E2), and the enhancement was blocked by tamoxifen (Tx), an antagonist of E2. On the contrary, other steroid hormones such as Tx, progesterone, and testosterone had no effect. YT-N17 contained 11.8 fmol/mg protein of estrogen receptor (mean of two independent assays), a value which was 5-10-fold higher than that of other hematopoietic cell lines. An enhancement of NK activity by E2 was also seen in large granular lymphocytes obtained from normal subjects, and it was again suppressed by Tx. These data suggest that E2 is one of the activating factors for NK/LGL cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sorachi</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Second Division of Internal Medicine, Faculty of Medicine, Kyoto University, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumagai</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sugita</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yodoi</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imura</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Immunol Lett</MedlineTA>
+            <NlmUniqueID>7910006</NlmUniqueID>
+            <ISSNLinking>0165-2478</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011960">Receptors, Estrogen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>094ZI81Y45</RegistryNumber>
+                <NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3XMK78S47O</RegistryNumber>
+                <NameOfSubstance UI="D013739">Testosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4G7DS2Q64Y</RegistryNumber>
+                <NameOfSubstance UI="D011374">Progesterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4TI98Z838E</RegistryNumber>
+                <NameOfSubstance UI="D004958">Estradiol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002455" MajorTopicYN="N">Cell Division</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004261" MajorTopicYN="N">DNA Replication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004958" MajorTopicYN="N">Estradiol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007694" MajorTopicYN="N">Killer Cells, Natural</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011374" MajorTopicYN="N">Progesterone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011960" MajorTopicYN="N">Receptors, Estrogen</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013629" MajorTopicYN="N">Tamoxifen</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013739" MajorTopicYN="N">Testosterone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8344714</ArticleId>
+            <ArticleId IdType="pii">0165-2478(93)90065-A</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

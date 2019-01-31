@@ -1,0 +1,442 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8816467</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-7306</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>16</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biology</Title>
+                <ISOAbbreviation>Mol. Cell. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induction of bcl-2 expression by phosphorylated CREB proteins during B-cell activation and rescue from apoptosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5546-56</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Engagement of surface immunoglobulin on mature B cells leads to rescue from apoptosis and to proliferation. Levels of bcl-2 mRNA and protein increase with cross-linking of surface immunoglobulin. We have located the major positive regulatory region for control of bcl-2 expression in B cells in the 5'-flanking region. The positive region can be divided into an upstream and a downstream regulatory region. The downstream regulatory region contains a cyclic AMP-responsive element (CRE). We show by antibody supershift experiments and UV cross-linking followed by denaturing polyacrylamide gel electrophoresis that both CREB and ATF family members bind to this region in vitro. Mutations of the CRE site that result in loss of CREB binding also lead to loss of functional activity of the bcl-2 promoter in transient-transfection assays. The presence of an active CRE site in the bcl-2 promoter implies that the regulation of bcl-2 expression is linked to a signal transduction pathway in B cells. Treatment of the mature B-cell line BAL-17 with either anti-immunoglobulin M or phorbol 12-myristate 13-acetate leads to an increase in bcl-2 expression that is mediated by the CRE site. Treatment of the more immature B-cell line, Ramos, with phorbol esters rescues the cells from calcium-dependent apoptosis. bcl-2 expression is increased following phorbol ester treatment, and the increased expression is dependent on the CRE site. These stimuli result in phosphorylation of CREB at serine 133. The phosphorylation of CREB that results in activation is mediated by protein kinase C rather than by protein kinase A. Although the CRE site is necessary, optimal induction of bcl-2 expression requires participation of the upstream regulatory element, suggesting that phosphorylation of CREB alters its interaction with the upstream regulatory element. The CRE site in the bcl-2 promoter appears to play a major role in the induction of bcl-2 expression during the activation of mature B cells and during the rescue of immature B cells from apoptosis. It is possible that the CRE site is responsible for induction of bcl-2 expression in other cell types, particularly those in which protein kinase C is involved.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>B E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Molecular Biology in Medicine, Palo Alto Veterans Affairs Medical Center, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mochon</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boxer</LastName>
+                    <ForeName>L M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA56764</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Biol</MedlineTA>
+            <NlmUniqueID>8109087</NlmUniqueID>
+            <ISSNLinking>0270-7306</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017362">Cyclic AMP Response Element-Binding Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019253">Proto-Oncogene Proteins c-bcl-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1F7A44V6OU</RegistryNumber>
+                <NameOfSubstance UI="D005576">Colforsin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56092-81-0</RegistryNumber>
+                <NameOfSubstance UI="D015759">Ionomycin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Mar 1;146(5):1685-91</RefSource>
+                <PMID Version="1">1993849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Feb 15;88(4):1311-4</RefSource>
+                <PMID Version="1">1705033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Feb 14;349(6310):612-4</RefSource>
+                <PMID Version="1">1705663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Mar 15;146(6):1730-5</RefSource>
+                <PMID Version="1">1900873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Apr 18;350(6319):622-4</RefSource>
+                <PMID Version="1">1826763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1991 Aug;21(8):1905-10</RefSource>
+                <PMID Version="1">1868875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Aug 15;88(16):7410-4</RefSource>
+                <PMID Version="1">1714601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 1991;50:55-85</RefSource>
+                <PMID Version="1">1950799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Feb 1;89(3):1118-22</RefSource>
+                <PMID Version="1">1371009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1992 Dec;22(12):3141-8</RefSource>
+                <PMID Version="1">1280225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1992 Dec 2;52(6):959-66</RefSource>
+                <PMID Version="1">1459737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1992 Dec 25;20(24):6739-40</RefSource>
+                <PMID Version="1">1480497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Feb 12;72(3):325-35</RefSource>
+                <PMID Version="1">8431943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Apr;12(4):1555-60</RefSource>
+                <PMID Version="1">8467805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Jun;13(6):3686-97</RefSource>
+                <PMID Version="1">8388542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 1993 Jun;14(3):269-90</RefSource>
+                <PMID Version="1">8319595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Jul 15;151(2):880-9</RefSource>
+                <PMID Version="1">8393039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Aug 15;268(23):16999-7009</RefSource>
+                <PMID Version="1">8394325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Aug 12;364(6438):645-8</RefSource>
+                <PMID Version="1">7688865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1993 Sep 23;1174(3):221-33</RefSource>
+                <PMID Version="1">8373801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Nov 1;82(9):2749-57</RefSource>
+                <PMID Version="1">8219227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Dec;67(12):6937-44</RefSource>
+                <PMID Version="1">8230415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1994 Jan;93(1):424-8</RefSource>
+                <PMID Version="1">8282815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Jan 18;91(2):554-8</RefSource>
+                <PMID Version="1">8290561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1994 Feb;24(2):325-9</RefSource>
+                <PMID Version="1">8299681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Jun 15;54(12):3131-5</RefSource>
+                <PMID Version="1">8205530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Jul 1;269(26):17359-62</RefSource>
+                <PMID Version="1">8021233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1994 Nov;14(11):7204-10</RefSource>
+                <PMID Version="1">7935435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Nov 18;269(46):28732-6</RefSource>
+                <PMID Version="1">7961825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Nov 15;153(10):4565-72</RefSource>
+                <PMID Version="1">7963528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Dec 2;269(48):30595-603</RefSource>
+                <PMID Version="1">7982978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Jan 1;154(1):68-79</RefSource>
+                <PMID Version="1">7995960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Feb 15;154(4):1717-23</RefSource>
+                <PMID Version="1">7836756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1994 Jun;1(3):189-96</RefSource>
+                <PMID Version="1">7889407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Apr 1;154(7):3096-104</RefSource>
+                <PMID Version="1">7534787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Apr 21;81(2):223-31</RefSource>
+                <PMID Version="1">7736574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Jul;15(7):3840-7</RefSource>
+                <PMID Version="1">7791791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Jul 1;86(1):80-8</RefSource>
+                <PMID Version="1">7795258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1995 Oct 4;215(1):23-9</RefSource>
+                <PMID Version="1">7575596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 1995 Apr;7(4):533-40</RefSource>
+                <PMID Version="1">7547679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Jan 4;379(6560):81-5</RefSource>
+                <PMID Version="1">8538746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Jan 15;146(2):715-22</RefSource>
+                <PMID Version="1">1702814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1976 Mar;6(3):207-13</RefSource>
+                <PMID Version="1">1086776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1981 Oct;127(4):1307-13</RefSource>
+                <PMID Version="1">6974188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1982 Jun;29(2):661-9</RefSource>
+                <PMID Version="1">6180834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1986 Mar 15;136(6):2300-4</RefSource>
+                <PMID Version="1">3005408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Sep;83(18):6682-6</RefSource>
+                <PMID Version="1">2875459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 May 22;49(4):455-63</RefSource>
+                <PMID Version="1">3032455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1987 Feb;95:37-57</RefSource>
+                <PMID Version="1">2437013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Jun 5;236(4806):1295-9</RefSource>
+                <PMID Version="1">3495884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1987 Apr;162(1):156-9</RefSource>
+                <PMID Version="1">2440339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1987 Nov;80(5):1512-5</RefSource>
+                <PMID Version="1">3500184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 Dec 1;139(11):3604-13</RefSource>
+                <PMID Version="1">2824610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1988 Jan;7(1):123-31</RefSource>
+                <PMID Version="1">2834197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 May 1;140(9):3135-9</RefSource>
+                <PMID Version="1">2834452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Aug 11;334(6182):494-8</RefSource>
+                <PMID Version="1">2900470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1989 Oct 9;1013(3):273-8</RefSource>
+                <PMID Version="1">2508752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Nov 17;59(4):675-80</RefSource>
+                <PMID Version="1">2573431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Jul;9(7):2125-31</RefSource>
+                <PMID Version="1">2357961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Jun 28;345(6278):810-3</RefSource>
+                <PMID Version="1">1694265</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="Y">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005576" MajorTopicYN="N">Colforsin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017362" MajorTopicYN="N">Cyclic AMP Response Element-Binding Protein</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015759" MajorTopicYN="N">Ionomycin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="Y">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008745" MajorTopicYN="N">Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016297" MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019253" MajorTopicYN="N">Proto-Oncogene Proteins c-bcl-2</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012045" MajorTopicYN="N">Regulatory Sequences, Nucleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8816467</ArticleId>
+            <ArticleId IdType="pmc">PMC231554</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

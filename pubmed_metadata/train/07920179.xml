@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7920179</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0145-5680</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>40</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cellular and molecular biology (Noisy-le-Grand, France)</Title>
+                <ISOAbbreviation>Cell. Mol. Biol. (Noisy-le-grand)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel membrane receptors for aldosterone in human lymphocytes: a 50 kDa protein on SDS-PAGE.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>351-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Fast in vitro effects of aldosterone on the Na+/H(+)-exchanger, inositoltrisphosphate generation and corresponding specific binding to plasma membranes at Kd-values of approximately 0.1 nM have been found in human mononuclear leukocytes and vascular smooth muscle cells. The novel aldosterone membrane receptor was analyzed on SDS-PAGE after labeling of microsomal membranes from human mononuclear leukocytes with a [125I]-aldosterone-derivative by use of BASED as a photoactivatable crosslinker. Binding of 1 nM [125I]-aldosterone was found at a molecular weight of approximately 50 kDa which was absent with 1 microM cold aldosterone, but not cortisol in the binding media. This aldosterone-selectivity is typical and discriminatory for the new aldosterone membrane receptor. Solubilization of the receptor protein from membranes by high salt concentrations (1 M NaCl, 1 mM EDTA) was not achieved. It, thus, appears as an integral membrane protein. Dithiothreitol, a sulfhydryl agent, does not reduce specific aldosterone binding indicating the absence of SH-groups in the binding domain or sensitive structures of the receptors. The results are the first to characterize the novel membrane receptor for aldosterone with regard to molecular weight and basic properties. These findings and other related results are reviewed here.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eisen</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medizinische Klinik, Klinikum Innenstadt, University of Munich, Federal Republic of Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christ</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theisen</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wehling</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Cell Mol Biol (Noisy-le-grand)</MedlineTA>
+            <NlmUniqueID>9216789</NlmUniqueID>
+            <ISSNLinking>0145-5680</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018161">Receptors, Mineralocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017923">Sodium-Hydrogen Exchangers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4964P6T9RB</RegistryNumber>
+                <NameOfSubstance UI="D000450">Aldosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>85166-31-0</RegistryNumber>
+                <NameOfSubstance UI="D015544">Inositol 1,4,5-Trisphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T8ID5YZU6Y</RegistryNumber>
+                <NameOfSubstance UI="D004229">Dithiothreitol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000450" MajorTopicYN="N">Aldosterone</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004229" MajorTopicYN="N">Dithiothreitol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004591" MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015544" MajorTopicYN="N">Inositol 1,4,5-Trisphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008970" MajorTopicYN="N">Molecular Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010777" MajorTopicYN="N">Photochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018161" MajorTopicYN="N">Receptors, Mineralocorticoid</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017923" MajorTopicYN="N">Sodium-Hydrogen Exchangers</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7920179</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

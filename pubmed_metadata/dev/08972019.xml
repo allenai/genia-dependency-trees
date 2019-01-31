@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8972019</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0340-6245</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>76</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis and haemostasis</Title>
+                <ISOAbbreviation>Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acetylsalicylic acid and sodium salicylate inhibit LPS-induced NF-kappa B/c-Rel nuclear translocation, and synthesis of tissue factor (TF) and tumor necrosis factor alfa (TNF-alpha) in human monocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>970-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have investigated the effects of acetylsalicylic acid and sodium salicylate on the LPS-induced synthesis of the pro-coagulant protein tissue factor (TF) and the pro-inflammatory protein tumor necrosis factor-alpha (TNF-alpha), as well as the prostaglandin PGE2 in human monocytes. Both drugs dose-dependently inhibited LPS-induced TF and TNF-alpha synthesis at the mRNA and the protein level, and reduced PGE2 production. As evidenced by electro mobility shift assay (EMSA) and the use of a NF-kappa B prototypic probe, these drugs probably exert their inhibitory effects by interference with the nuclear translocation of NF-kappa B/c-Rel proteins. These data may expand the understanding of the anti-thrombotic and anti-inflammatory effects of these drugs when activation of monocytes occurs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Osnes</LastName>
+                    <ForeName>L T</ForeName>
+                    <Initials>LT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Clinical Chemistry, Ullevaal University Hospital, Oslo, Norway. liv.osnes@ioks.uio.no</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foss</LastName>
+                    <ForeName>K B</ForeName>
+                    <Initials>KB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joø</LastName>
+                    <ForeName>G B</ForeName>
+                    <Initials>GB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okkenhaug</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westvik</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ovstebø</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kierulf</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Thromb Haemost</MedlineTA>
+            <NlmUniqueID>7608063</NlmUniqueID>
+            <ISSNLinking>0340-6245</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-58-9</RegistryNumber>
+                <NameOfSubstance UI="D013925">Thromboplastin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>R16CO5Y76E</RegistryNumber>
+                <NameOfSubstance UI="D001241">Aspirin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WIQ1H85SYP</RegistryNumber>
+                <NameOfSubstance UI="D012980">Sodium Salicylate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001241" MajorTopicYN="N">Aspirin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012980" MajorTopicYN="N">Sodium Salicylate</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013925" MajorTopicYN="N">Thromboplastin</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8972019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

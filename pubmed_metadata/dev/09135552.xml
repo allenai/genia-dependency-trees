@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9135552</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-2805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>90</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology</Title>
+                <ISOAbbreviation>Immunology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The tumour associated cell surface antigen A6H is costimulatory for human CD4+ but not CD8+ T cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>236-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The A6H monoclonal antibody (mAb) recognizes a 120,000-140,000 MW antigen that is expressed at similar densities on 85-90% of human CD4+ and CD8+ T cells and on renal cell carcinomas. The binding of the A6H mAb induced a costimulatory signal in anti-CD3 activated T cells. In the present report, we show that A6H costimulated cell proliferation and cytokine production in purified CD4+ T cells. Unexpectedly, the CD8+ T-cell subpopulation failed to respond. CD4+ T cells costimulated with the A6H mAb upregulated CD80, CD86, CD71, interleukin-2 (IL-2)R alpha, IL-2R beta and IL-2R gamma, while no corresponding up-regulation of these cell surface molecules was seen in CD8+ T cells. In order to investigate the nature of the A6H mAb costimulus at the transcriptional level we have examined induction of the transcription factors OCT-1, AP-1 and NF-kappa B which are known to be transcriptional regulators of several cytokine and cytokine receptor genes, including the IL-2 and IL-2R genes. Co-ligation of the A6H antigen and the CD3 complex induced expression of the transcription factor AP-1 in CD4+ T cells, whereas no increase in NF-kappa B and octamer-binding (Oct) proteins was seen compared to T cells stimulated with anti-CD3 alone. Furthermore, no induction of AP-1 was seen in A6H costimulated CD8+ T cells. These results suggests that both proximal steps in CD8+ T-cell activation as well as the later phases are unresponsive to A6H ligation. Molecular differences of the A6H molecule or distinct regulation of the A6H transduced AP-1 activation pathway may exist in CD4+ and CD8+ T cell subpopulations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Labuda</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tumour Immunology, Wallenberg Laboratory, University of Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parra</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hedlund</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalland</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dohlsten</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunology</MedlineTA>
+            <NlmUniqueID>0374672</NlmUniqueID>
+            <ISSNLinking>0019-2805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000951">Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007376">Interleukin-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018808">Transcription Factor AP-1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Apr 1;148(7):1993-8</RefSource>
+                <PMID Version="1">1347547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Feb 15;148(4):1240-50</RefSource>
+                <PMID Version="1">1737937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 Feb;7(2):188-96</RefSource>
+                <PMID Version="1">8436291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Mar 1;90(5):1696-700</RefSource>
+                <PMID Version="1">8383323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1993 Jun;5(3):313-23</RefSource>
+                <PMID Version="1">8347294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1993 Jun;5(3):361-7</RefSource>
+                <PMID Version="1">7688514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1993 Oct;80(2):236-41</RefSource>
+                <PMID Version="1">7505257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Feb 3;367(6462):425-8</RefSource>
+                <PMID Version="1">8107800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Jun 3;77(5):727-36</RefSource>
+                <PMID Version="1">8205621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 1994 Jul;156(2):371-7</RefSource>
+                <PMID Version="1">8025954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1994 Jun;6(3):431-7</RefSource>
+                <PMID Version="1">7917111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1994 Oct;6(5):797-807</RefSource>
+                <PMID Version="1">7530013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Jul 3;14(13):2978-86</RefSource>
+                <PMID Version="1">7542584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Aug 1;155(3):1132-40</RefSource>
+                <PMID Version="1">7543515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Aug 1;14(15):3731-40</RefSource>
+                <PMID Version="1">7641692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1995 Jun;7(3):333-42</RefSource>
+                <PMID Version="1">7546397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Immunol. 1995;15(3-4):235-53</RefSource>
+                <PMID Version="1">8834450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1985 Dec;45(12 Pt 1):6131-9</RefSource>
+                <PMID Version="1">3904980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1987 Feb 1;165(2):302-19</RefSource>
+                <PMID Version="1">3029267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1987 Apr 16-22;326(6114):711-3</RefSource>
+                <PMID Version="1">3031512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Apr 15;140(8):2484-8</RefSource>
+                <PMID Version="1">3258609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1988 Apr;8(4):1715-24</RefSource>
+                <PMID Version="1">3260003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1989;7:445-80</RefSource>
+                <PMID Version="1">2653373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Jul 1;143(1):153-61</RefSource>
+                <PMID Version="1">2543699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1990;8:421-52</RefSource>
+                <PMID Version="1">2188669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1990 Apr;114:109-43</RefSource>
+                <PMID Version="1">2196219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Aug 2;346(6283):425-34</RefSource>
+                <PMID Version="1">1974032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1991 Apr;6(4):533-42</RefSource>
+                <PMID Version="1">1827665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 Sep 1;174(3):561-9</RefSource>
+                <PMID Version="1">1714933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Oct 15;147(8):2734-9</RefSource>
+                <PMID Version="1">1655897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 Oct 1;174(4):901-13</RefSource>
+                <PMID Version="1">1717633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Oct 15;88(20):9287-91</RefSource>
+                <PMID Version="1">1924393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Immunol. 1992 Aug;36(2):243-50</RefSource>
+                <PMID Version="1">1380180</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000951" MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015496" MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018414" MajorTopicYN="N">CD8-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002455" MajorTopicYN="N">Cell Division</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007376" MajorTopicYN="N">Interleukin-2</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018808" MajorTopicYN="N">Transcription Factor AP-1</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9135552</ArticleId>
+            <ArticleId IdType="pmc">PMC1456752</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

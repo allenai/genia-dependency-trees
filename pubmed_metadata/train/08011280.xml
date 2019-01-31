@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8011280</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0732-0582</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>1994</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annual review of immunology</Title>
+                <ISOAbbreviation>Annu. Rev. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Function and activation of NF-kappa B in the immune system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>141-79</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>NF-kappa B is a ubiquitous transcription factor. Nevertheless, its properties seem to be most extensively exploited in cells of the immune system. Among these properties are NF-kappa B's rapid posttranslational activation in response to many pathogenic signals, its direct participation in cytoplasmic/nuclear signaling, and its potency to activate transcription of a great variety of genes encoding immunologically relevant proteins. In vertebrates, five distinct DNA binding subunits are currently known which might extensively heterodimerize, thereby forming complexes with distinct transcriptional activity, DNA sequence specificity, and cell type- and cell stage-specific distribution. The activity of DNA binding NF-kappa B dimers is tightly controlled by accessory proteins called I kappa B subunits of which there are also five different species currently known in vertebrates. I kappa B proteins inhibit DNA binding and prevent nuclear uptake of NF-kappa B complexes. An exception is the Bcl-3 protein which in addition can function as a transcription activating subunit in th nucleus. Other I kappa B proteins are rather involved in terminating NF-kappa B's activity in the nucleus. The intracellular events that lead to the inactivation of I kappa B, i.e. the activation of NF-kappa B, are complex. They involve phosphorylation and proteolytic reactions and seem to be controlled by the cells' redox status. Interference with the activation or activity of NF-kappa B may be beneficial in suppressing toxic/septic shock, graft-vs-host reactions, acute inflammatory reactions, acute phase response, and radiation damage. The inhibition of NF-kappa B activation by antioxidants and specific protease inhibitors may provide a pharmacological basis for interfering with these acute processes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Baeuerle</LastName>
+                    <ForeName>P A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Biochemistry, University of Freiburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henkel</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Annu Rev Immunol</MedlineTA>
+            <NlmUniqueID>8309206</NlmUniqueID>
+            <ISSNLinking>0732-0582</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011518">Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007107" MajorTopicYN="N">Immune System</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009858" MajorTopicYN="N">Oncogenic Viruses</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011518" MajorTopicYN="N">Proto-Oncogene Proteins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>191</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8011280</ArticleId>
+            <ArticleId IdType="doi">10.1146/annurev.iy.12.040194.001041</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

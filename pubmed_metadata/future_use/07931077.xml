@@ -1,0 +1,459 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7931077</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>180</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Oct</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A family of serine proteases expressed exclusively in myelo-monocytic cells specifically processes the nuclear factor-kappa B subunit p65 in vitro and may impair human immunodeficiency virus replication in these cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1445-56</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Two groups of U937 promonocytic cells were obtained by limiting dilution cloning which differed strikingly in their ability to support human immunodeficiency virus 1 (HIV-1) replication. &quot;Plus&quot; clones replicated the virus efficiently, whereas &quot;minus&quot; clones did not. We examined these clones for differences in nuclear factor (NF)-kappa B activity which might account for the observed phenomenon. Stimulation of plus clones liberated the classical p50-p65 complex from cytoplasmic pools, whereas minus clones produced an apparently novel, faster-migrating complex, as judged by electrophoretic mobility shift assays. It is surprising that the faster-migrating complex was composed also of p50 and p65. However, the p65 subunit was COOH-terminally truncated, as shown by immunoprecipitation. The truncation resulted from limited proteolysis of p65 during cellular extraction which released particular lysosomal serine proteases, such as elastase, cathepsin G, and proteinase 3. These specific proteases are coordinately expressed and were present exclusively in the minus U937 clones, but not in the plus clones, as demonstrated in the case of cathepsin G. In addition, these proteases were detected in certain subclones of THP-1 and HL-60 cells and in primary monocytes, in each case correlating with the truncated from of p65. We demonstrate in vitro cleavage of p65 by purified elastase and cathepsin G. It is possible that particular serine proteases may have inhibiting effects on the replication of HIV-1 in myelo-monocytic cells. The data also demonstrate that special precautions must be taken when making extracts from myelo-monocytic cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Franzoso</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Immunoregulation, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biswas</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poli</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlson</LastName>
+                    <ForeName>L M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>K D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomita-Yamaguchi</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fauci</LastName>
+                    <ForeName>A S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siebenlist</LastName>
+                    <ForeName>U K</ForeName>
+                    <Initials>UK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051996">Transcription Factor RelA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance UI="D012697">Serine Endopeptidases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 1993;143:1-62</RefSource>
+                <PMID Version="1">8449662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1993 Feb;5(1):97-102</RefSource>
+                <PMID Version="1">8452681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Mar 12;72(5):729-39</RefSource>
+                <PMID Version="1">8453667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Mar 25;362(6418):359-62</RefSource>
+                <PMID Version="1">8096068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 Mar 26;259(5103):1912-5</RefSource>
+                <PMID Version="1">8096091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Jan 4;91(1):108-12</RefSource>
+                <PMID Version="1">7506410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Jan 4;91(1):28-32</RefSource>
+                <PMID Version="1">8278379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Apr;68(4):2598-604</RefSource>
+                <PMID Version="1">7511175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1994;12:141-79</RefSource>
+                <PMID Version="1">8011280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1990 May 1;171(5):1705-20</RefSource>
+                <PMID Version="1">2332735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1971 Oct 1;134(4):907-34</RefSource>
+                <PMID Version="1">4106490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Biophys. 1983 Jun;5(2):105-18</RefSource>
+                <PMID Version="1">6197173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1985 Apr;37(4):407-22</RefSource>
+                <PMID Version="1">3855947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 1984 Dec;12(6):899-902</RefSource>
+                <PMID Version="1">6397377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1986 May;77(5):1675-81</RefSource>
+                <PMID Version="1">3009552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Mar 15;90(6):2532-6</RefSource>
+                <PMID Version="1">8460169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 May;67(5):2908-13</RefSource>
+                <PMID Version="1">8474179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Jul;12(7):2773-9</RefSource>
+                <PMID Version="1">8334993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1993 Jun;9(6):547-51</RefSource>
+                <PMID Version="1">8347399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Sep;67(9):5235-46</RefSource>
+                <PMID Version="1">8394446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Oct;12(10):3893-901</RefSource>
+                <PMID Version="1">8404857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatogastroenterology. 1993 Aug;40(4):352-5</RefSource>
+                <PMID Version="1">8406304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Nov;67(11):6596-604</RefSource>
+                <PMID Version="1">8411362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1993 Oct 29;693:52-64</RefSource>
+                <PMID Version="1">8267295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1986 Jul;68(1):281-4</RefSource>
+                <PMID Version="1">3013342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1986 Jul 11;233(4760):215-9</RefSource>
+                <PMID Version="1">3014648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1986 Sep 5;233(4768):1089-93</RefSource>
+                <PMID Version="1">3016903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1986 Nov 7;256(17):2360-4</RefSource>
+                <PMID Version="1">3639953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1987 Apr 21;26(8):2289-93</RefSource>
+                <PMID Version="1">3304423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Nov 6;238(4828):800-2</RefSource>
+                <PMID Version="1">3313729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1988 Jan;62(1):139-47</RefSource>
+                <PMID Version="1">3257102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Feb 15;263(5):2543-7</RefSource>
+                <PMID Version="1">3422232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1988 Apr 1;167(4):1428-41</RefSource>
+                <PMID Version="1">3258626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Sep 23;241(4873):1673-5</RefSource>
+                <PMID Version="1">3047875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Oct 15;263(29):14739-47</RefSource>
+                <PMID Version="1">2902087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Intervirology. 1988;29(4):185-94</RefSource>
+                <PMID Version="1">3182233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1989 Mar 1;169(3):933-51</RefSource>
+                <PMID Version="1">2538549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Jul 21;245(4915):305-8</RefSource>
+                <PMID Version="1">2665081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Nov 1;143(9):2961-8</RefSource>
+                <PMID Version="1">2681419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1990 Jan 25;265(3):1524-30</RefSource>
+                <PMID Version="1">2295643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1990 May;85(5):1343-52</RefSource>
+                <PMID Version="1">2185272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1990 Jun;11(6):217-23</RefSource>
+                <PMID Version="1">2191685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1990 Jul 1;172(1):253-61</RefSource>
+                <PMID Version="1">2193097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 1990;14(8):711-3</RefSource>
+                <PMID Version="1">2167409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1990 Dec;162(6):1239-44</RefSource>
+                <PMID Version="1">1977808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1990 Nov 15;76(10):1980-8</RefSource>
+                <PMID Version="1">2173633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1990 Nov;86(5):1381-6</RefSource>
+                <PMID Version="1">2243118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Jan 1;146(1):377-83</RefSource>
+                <PMID Version="1">1984449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1990 Dec 25;265(36):22409-17</RefSource>
+                <PMID Version="1">2176217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1991 Jan;11(1):259-66</RefSource>
+                <PMID Version="1">1986224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Apr 25;350(6320):709-12</RefSource>
+                <PMID Version="1">2023633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 May 25;266(15):9540-8</RefSource>
+                <PMID Version="1">2033050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dermatol Clin. 1991 Jul;9(3):415-28</RefSource>
+                <PMID Version="1">1873923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 1991 Sep;52(3):482-4</RefSource>
+                <PMID Version="1">1897020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1991 Dec;10(12):3805-17</RefSource>
+                <PMID Version="1">1935902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Nov 1;88(21):9426-30</RefSource>
+                <PMID Version="1">1946356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Feb;66(2):1183-7</RefSource>
+                <PMID Version="1">1731096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1992 Feb;12(2):685-95</RefSource>
+                <PMID Version="1">1531086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1992 Feb;8(2):261-8</RefSource>
+                <PMID Version="1">1347227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Mar 1;89(5):1875-9</RefSource>
+                <PMID Version="1">1542686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1992 Apr;89(4):1154-60</RefSource>
+                <PMID Version="1">1556179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1992 May 15;79(10):2733-40</RefSource>
+                <PMID Version="1">1586720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Sep 1;176(3):739-50</RefSource>
+                <PMID Version="1">1512539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Sep 1;89(17):8215-9</RefSource>
+                <PMID Version="1">1518849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathobiology. 1992;60(4):246-51</RefSource>
+                <PMID Version="1">1388722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1992 Oct;22(10):2705-11</RefSource>
+                <PMID Version="1">1327803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Sep 24;359(6393):339-42</RefSource>
+                <PMID Version="1">1406939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Oct 16;71(2):243-53</RefSource>
+                <PMID Version="1">1423592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1993 Jan 19;32(2):551-60</RefSource>
+                <PMID Version="1">8422365</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011817" MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012697" MajorTopicYN="N">Serine Endopeptidases</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051996" MajorTopicYN="N">Transcription Factor RelA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7931077</ArticleId>
+            <ArticleId IdType="pmc">PMC2191703</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

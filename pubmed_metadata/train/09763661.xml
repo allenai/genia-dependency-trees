@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9763661</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0301-0171</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>82</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cytogenetics and cell genetics</Title>
+                <ISOAbbreviation>Cytogenet. Cell Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Position effect of translocations involving the inactive X chromosome: physical linkage to XIC/XIST does not lead to long-range de novo inactivation in human differentiated cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>58-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Given the reported long-range cis-inactivating effect of the XIST gene in early embryonic development and the lack of requirement of X-chromosome-specific elements for propagating the inactive state, there exists the possibility of cis inactivation of autosomal material after de novo translocation to an inactive X chromosome (Xi) in differentiated cells. We have analyzed de novo radiation-induced translocations between the Xi and autosomes to study the maintenance and spreading of X-chromosome inactivation (X inactivation) in relation to the position of the X-inactivation center (XIC)/XIST in differentiated cells. Autosome/Xi translocations were detected by fluorescence in situ hybridization (FISH). The activation status of the chromosomes involved in the translocation was determined by simultaneous immunocytogenetic studies using antibodies against either BrdU incorporated at late S phase or acetylated histone H4. The position of XIC/XIST in the reciprocal products of the translocation was determined by XIST-specific FISH and computer enhancement. In other experiments, the Xq13 region carrying XIC/XIST was localized by computer enhancement of the DAPI banding pattern. Our study in differentiated cells provides a visual demonstration that physical separation from XIC/XIST does not result in reactivation of inactive X-chromosome material and that X inactivation is not spread to the translocated autosomes irrespective of the position of XIC/XIST. This observation suggests that physical linkage to XIC/XIST does not lead to de novo inactivation of autosomal material.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Surrallés</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Genetics and Chemical Mutagenesis, Leiden University, Leiden, The Netherlands. jordi.surralles@blues.uab.es</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Natarajan</LastName>
+                    <ForeName>A T</ForeName>
+                    <Initials>AT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Cytogenet Cell Genet</MedlineTA>
+            <NlmUniqueID>0367735</NlmUniqueID>
+            <ISSNLinking>0301-0171</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D062085">RNA, Long Noncoding</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D022661">RNA, Untranslated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C077885">XIST non-coding RNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004303" MajorTopicYN="Y">Dosage Compensation, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008040" MajorTopicYN="Y">Genetic Linkage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017404" MajorTopicYN="N">In Situ Hybridization, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008214" MajorTopicYN="N">Lymphocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062085" MajorTopicYN="N">RNA, Long Noncoding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D022661" MajorTopicYN="Y">RNA, Untranslated</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014178" MajorTopicYN="Y">Translocation, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>2</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>2</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9763661</ArticleId>
+            <ArticleId IdType="pii">ccg82058</ArticleId>
+            <ArticleId IdType="doi">10.1159/000015065</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

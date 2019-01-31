@@ -1,0 +1,556 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8751937</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-9567</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Activation of human monocytic cells by Treponema pallidum and Borrelia burgdorferi lipoproteins and synthetic lipopeptides proceeds via a pathway distinct from that of lipopolysaccharide but involves the transcriptional activator NF-kappa B.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3845-52</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>There is increasing evidence that lipoproteins of Treponema pallidum and Borrelia burgdorferi are key inflammatory mediators during syphilis and Lyme disease. A principal objective of the present study was to identify more precisely similarities and divergences among lipopolysaccharide (LPS)- and lipoprotein-lipopeptide-induced immune cell signaling events. Like LPS, purified native B. burgdorferi OspA and synthetic analogs of OspA, OspB, and two T. pallidum lipoproteins (Tpp47 and Tpp17) all induced NF-kappa B translocation in THP-1 human monocytoid cells. Acylation of OspA and the synthetic peptides was requisite for cell activation. Polymyxin B abrogated only the response to LPS. By using 70Z/3-derived pre-B-cell lines either lacking or expressing human CD14 (the LPS receptor), it was observed that expression of human CD14 imparted responsiveness to LPS but not to OspA or spirochetal lipopeptides (assessed by induction of NF-kappa B and expression of surface immunoglobulin M). Finally, the biological relevance of the observation that T. pallidum lipoproteins-lipopeptides induce both NF-kappa B and cytokine production in monocytes was supported by the ability of the synthetic analogs to promote human immunodeficiency virus replication in chronically infected U1 monocytoid cells; these observations also suggest a potential mechanism whereby a syphilitic chancre can serve as a cofactor for human immunodeficiency virus transmission. The combined data lend additional support to the proposal that spirochetal lipoproteins and LPS initiate monocyte activation via different cell surface events but that the signaling pathways ultimately converge to produce qualitatively similar cellular responses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Norgard</LastName>
+                    <ForeName>M V</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Texas Southwestern Medical Center, Dallas 75235, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arndt</LastName>
+                    <ForeName>L L</ForeName>
+                    <Initials>LL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akins</LastName>
+                    <ForeName>D R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Curetty</LastName>
+                    <ForeName>L L</ForeName>
+                    <Initials>LL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrich</LastName>
+                    <ForeName>D A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radolf</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI-16692</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-26756</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-29735</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000954">Antigens, Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001425">Bacterial Outer Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001428">Bacterial Vaccines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007075">Immunoglobulin M</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018950">Lipopolysaccharide Receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008074">Lipoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C072045">OspA protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011947">Receptors, Antigen, B-Cell</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1995 Sep;63(9):3327-35</RefSource>
+                <PMID Version="1">7642261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1995 Nov;63(11):4535-9</RefSource>
+                <PMID Version="1">7591099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1995 Sep;59(3):481-505</RefSource>
+                <PMID Version="1">7565415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Jan 1;183(1):261-9</RefSource>
+                <PMID Version="1">8551229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1980 Aug;26(2):171-6</RefSource>
+                <PMID Version="1">6970727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Soc Exp Biol Med. 1983 Oct;174(1):47-52</RefSource>
+                <PMID Version="1">6356134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Feb;64(2):637-43</RefSource>
+                <PMID Version="1">8550219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1996 Apr;4(4):407-14</RefSource>
+                <PMID Version="1">8612135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Dermatol. 1973 Mar;107(3):373-7</RefSource>
+                <PMID Version="1">4348110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1978 Aug;121(2):641-7</RefSource>
+                <PMID Version="1">308074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Aug;64(8):3180-7</RefSource>
+                <PMID Version="1">8757851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1995 Nov;18(3):507-20</RefSource>
+                <PMID Version="1">8748034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yale J Biol Med. 1984 Jul-Aug;57(4):521-5</RefSource>
+                <PMID Version="1">6393604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1985 Apr;37(4):407-22</RefSource>
+                <PMID Version="1">3855947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1985 Apr 11;13(7):2485-502</RefSource>
+                <PMID Version="1">2987855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1985 Sep;135(3):1900-5</RefSource>
+                <PMID Version="1">3874908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1986 May;77(5):1712-5</RefSource>
+                <PMID Version="1">2422213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 Jan;6(1):229-34</RefSource>
+                <PMID Version="1">3034576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1987 Sep;55(9):2311-3</RefSource>
+                <PMID Version="1">3623705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Nov 6;238(4828):800-2</RefSource>
+                <PMID Version="1">3313729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Apr 15;263(11):5098-103</RefSource>
+                <PMID Version="1">3128535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1988 Jul;56(7):1825-8</RefSource>
+                <PMID Version="1">3290110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunobiology. 1988 May;177(2):158-70</RefSource>
+                <PMID Version="1">3042614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1988 Sep 9;260(10):1429-33</RefSource>
+                <PMID Version="1">3404600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1988 Jul 15;67(1):31-40</RefSource>
+                <PMID Version="1">3047011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jul 28;58(2):227-9</RefSource>
+                <PMID Version="1">2665943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1989 Sep;57(9):2872-7</RefSource>
+                <PMID Version="1">2668191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1989 Sep;160(3):530-4</RefSource>
+                <PMID Version="1">2668432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1989 Apr;3(4):479-86</RefSource>
+                <PMID Version="1">2761388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 1989 Sep;7(3):175-88</RefSource>
+                <PMID Version="1">2693885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1990 Jan;20(1):63-8</RefSource>
+                <PMID Version="1">2407539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1990 Apr;58(4):983-91</RefSource>
+                <PMID Version="1">2318538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1990 Jun 5;265(16):9520-5</RefSource>
+                <PMID Version="1">2345180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1990 Jul 1;172(1):253-61</RefSource>
+                <PMID Version="1">2193097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1990 Dec 15;76(12):2457-61</RefSource>
+                <PMID Version="1">2265241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Experientia. 1991 Jan 15;47(1):22-31</RefSource>
+                <PMID Version="1">1999239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 1991 Mar;151(3):511-6</RefSource>
+                <PMID Version="1">2001134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 1991 Apr 15;114(8):678-93</RefSource>
+                <PMID Version="1">1672248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Apr 25;350(6320):709-12</RefSource>
+                <PMID Version="1">2023633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Sep 15;147(6):1968-74</RefSource>
+                <PMID Version="1">1890308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1992 Mar;165(3):484-93</RefSource>
+                <PMID Version="1">1347056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1992 Mar 1;282 ( Pt 2):551-7</RefSource>
+                <PMID Version="1">1312332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1992 Apr;60(4):1568-76</RefSource>
+                <PMID Version="1">1372297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Jun 1;175(6):1697-705</RefSource>
+                <PMID Version="1">1375269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sex Transm Dis. 1992 Mar-Apr;19(2):61-77</RefSource>
+                <PMID Version="1">1595015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Neurol. 1992 Mar;12(1):43-50</RefSource>
+                <PMID Version="1">1615239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Aug 1;176(2):485-94</RefSource>
+                <PMID Version="1">1380063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1992 Oct;52(4):363-8</RefSource>
+                <PMID Version="1">1402386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Apr;61(4):1202-10</RefSource>
+                <PMID Version="1">8454324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Apr 1;177(4):1071-7</RefSource>
+                <PMID Version="1">8384652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1993 Jun 18;1149(1):29-39</RefSource>
+                <PMID Version="1">8391319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunobiology. 1993 Apr;187(3-5):233-56</RefSource>
+                <PMID Version="1">8330898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Sep;61(9):3843-53</RefSource>
+                <PMID Version="1">8359905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Nov 25;268(33):25009-14</RefSource>
+                <PMID Version="1">7693711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Jan;176(1):21-31</RefSource>
+                <PMID Version="1">8282698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Feb;62(2):520-8</RefSource>
+                <PMID Version="1">8300210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Apr;176(8):2151-7</RefSource>
+                <PMID Version="1">8157583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1994 May;169(5):1014-22</RefSource>
+                <PMID Version="1">7513330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Jul;62(7):2653-61</RefSource>
+                <PMID Version="1">8005657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pept Res. 1994 Mar-Apr;7(2):91-7</RefSource>
+                <PMID Version="1">8012126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Aug 5;265(5173):808-11</RefSource>
+                <PMID Version="1">7914033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Sep;62(9):3663-71</RefSource>
+                <PMID Version="1">7520417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Oct;62(10):4632-6</RefSource>
+                <PMID Version="1">7927731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Mar 15;154(6):2866-77</RefSource>
+                <PMID Version="1">7876555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1995 Apr;63(4):1507-15</RefSource>
+                <PMID Version="1">7890417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1994 Sep;1(6):509-16</RefSource>
+                <PMID Version="1">7534618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 Mar 28;92(7):2909-13</RefSource>
+                <PMID Version="1">7708747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Intern Med. 1995;40:69-117</RefSource>
+                <PMID Version="1">7747659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1995 Jul;63(7):2424-34</RefSource>
+                <PMID Version="1">7790053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1995;13:437-57</RefSource>
+                <PMID Version="1">7542010</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000954" MajorTopicYN="N">Antigens, Surface</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001425" MajorTopicYN="N">Bacterial Outer Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001428" MajorTopicYN="N">Bacterial Vaccines</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015748" MajorTopicYN="N">Borrelia burgdorferi Group</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017931" MajorTopicYN="N">DNA Primers</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007075" MajorTopicYN="N">Immunoglobulin M</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018950" MajorTopicYN="N">Lipopolysaccharide Receptors</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008074" MajorTopicYN="N">Lipoproteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011947" MajorTopicYN="N">Receptors, Antigen, B-Cell</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014210" MajorTopicYN="N">Treponema pallidum</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8751937</ArticleId>
+            <ArticleId IdType="pmc">PMC174301</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9843840</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9513</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>275</Volume>
+                    <Issue>6 Pt 1</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Activation of human macrophages by mechanical ventilation in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>L1040-50</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Positive-pressure mechanical ventilation supports gas exchange in patients with respiratory failure but is also responsible for significant lung injury. In this study, we have developed an in vitro model in which isolated lung cells can be submitted to a prolonged cyclic pressure-stretching strain resembling that of conventional mechanical ventilation. In this model, cells cultured on a Silastic membrane were elongated up to 7% of their initial diameter, corresponding to a 12% increase in cell surface. The lung macrophage was identified as the main cellular source for critical inflammatory mediators such as tumor necrosis factor-alpha, the chemokines interleukin (IL)-8 and -6, and matrix metalloproteinase-9 in this model system of mechanical ventilation. These mediators were measured in supernatants from ventilated alveolar macrophages, monocyte-derived macrophages, and promonocytic THP-1 cells. Nuclear factor-kappaB was found to be activated in ventilated macrophages. Synergistic proinflammatory effects of mechanical stress and molecules such as bacterial endotoxin were observed, suggesting that mechanical ventilation might be particularly deleterious in preinjured or infected lungs. Dexamethasone prevented IL-8 and tumor necrosis factor-alpha secretion in ventilated macrophages. Mechanical ventilation induced low levels of IL-8 secretion by alveolar type II-like cells. Other lung cell types such as endothelial cells, bronchial cells, and fibroblasts failed to produce IL-8 in response to a prolonged cyclic pressure-stretching load. This model is of particular value for exploring physical stress-induced signaling pathways, as well as for testing the effects of novel ventilatory strategies or adjunctive substances aimed at modulating cell activation induced by mechanical ventilation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pugin</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Medical Intensive Care, Department of Internal Medicine, University Hospital of Geneva, 1211 Geneva 14, Switzerland. pugin@cmu.unige.ch</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunn</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jolliet</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tassaux</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magnenat</LastName>
+                    <ForeName>J L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicod</LastName>
+                    <ForeName>L P</ForeName>
+                    <Initials>LP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chevrolet</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol</MedlineTA>
+            <NlmUniqueID>0370511</NlmUniqueID>
+            <ISSNLinking>0002-9513</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005938" MajorTopicYN="N">Glucocorticoids</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008264" MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012121" MajorTopicYN="Y">Respiration, Artificial</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013234" MajorTopicYN="N">Stem Cells</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9843840</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

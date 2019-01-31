@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2146852</PMID>
+        <DateCompleted>
+            <Year>1990</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-5598</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>123</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1990</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta endocrinologica</Title>
+                <ISOAbbreviation>Acta Endocrinol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extrarenal receptor-effector-mechanisms for aldosterone: the sequence of effects on the cellular electrolyte transport in human lymphocytes and their implications for disorders of the water and electrolyte balances.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>385-94</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>High affinity aldosterone binding sites have not only been described in the classic target tissues such as the renal tubules, but also in non-classic target tissues such as the hippocampus, mammary gland, endothelial cells and, recently, human mononuclear leukocytes. An in vitro effect of aldosterone on intracellular sodium, potassium and calcium concentrations and cell volume was shown in human mononuclear leukocytes. In the absence of aldosterone, the intracellular Na+, K+ and Ca2+ concentrations and the cell volume decreased significantly, but remained constant when aldosterone (1.4 nmol/l) was added to the incubation medium. These effects of aldosterone were blocked by the aldosterone antagonist canrenone (140 nmol/l). The sodium/proton exchanger of the cell membrane could be identified as the primary target of the aldosterone action, possibly non-genomically mediated through membrane receptors. The clinical significance of this model was underlined by the demonstration of absent or a decreased number of mineralocorticoid receptors and the lack of electrolyte response to aldosterone in human mononuclear leukocytes of patients with pseudohypoaldosteronism and aldosteronism. Additionally, an abnormal effector mechanism could be demonstrated in human mononuclear leukocytes from essential hypertensives. These studies are the first to demonstrate the significance of extrarenal, nonepithelial mineralocorticoid receptors and the related effector mechanism in different disorders of the water and electrolyte balance in man.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wehling</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medizinische Klinik Innenstadt, University of Munich, FRG.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theisen</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Acta Endocrinol (Copenh)</MedlineTA>
+            <NlmUniqueID>0370312</NlmUniqueID>
+            <ISSNLinking>0001-5598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004573">Electrolytes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011965">Receptors, Glucocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018161">Receptors, Mineralocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4964P6T9RB</RegistryNumber>
+                <NameOfSubstance UI="D000450">Aldosterone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000450" MajorTopicYN="N">Aldosterone</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004573" MajorTopicYN="N">Electrolytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008214" MajorTopicYN="N">Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011965" MajorTopicYN="N">Receptors, Glucocorticoid</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018161" MajorTopicYN="N">Receptors, Mineralocorticoid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014883" MajorTopicYN="N">Water-Electrolyte Imbalance</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>59</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1990</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1990</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1990</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2146852</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

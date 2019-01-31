@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9741337</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-2805</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology</Title>
+                <ISOAbbreviation>Immunology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Low CD3+CD28-induced interleukin-2 production correlates with decreased reactive oxygen intermediate formation in neonatal T cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>167-72</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The capacity of neonatal T cells to secrete interleukin-2 (IL-2) has been reported to be variable. We analysed IL-2 production in purified neonatal and adult T cells using polyclonal activator phorbol ester + calcium ionophore (PDBu + iono) or receptor-mediated anti-CD3/anti-CD3+ anti-CD28 stimulation. PDBu + iono induced equally high IL-2 levels in both groups and, when stimulated with plate-bound anti-CD3 monoclonal antibody (mAb), the IL-2 secretion by neonatal cells was undetectable and adult cells produced low amounts of IL-2 (mean 331 +/- 86 pg/ml). The addition of anti-CD28 mAb to anti-CD3-stimulated cells markedly increased IL-2 production in both cell types, but levels of IL-2 in neonatal T cells remained clearly lower than those of adult T cells (respective mean values: 385 +/- 109 pg/ml and 4494 +/- 1199 pg/ml). As NF-kappa B is a critical transcription factor in the control of IL-2 expression, we next analysed its nuclear translocation in neonatal and adult T cells using the electrophoretic mobility shift assay and, because induction of reactive oxygen intermediates (ROI) is required for the activation of NF-kappa B, we also analysed levels of intracellular ROI in these cells using the ROI-reactive fluorochrome DCFH-DA and flow cytometry. In neonatal T cells NF-kappa B activation and ROI formation after anti-CD3 stimulation were low compared with adult T cells and, although addition of anti-CD28 mAb increased induction of NF-kappa B and ROI formation, levels similar to those of adults were not achieved. After PDBu + iono stimulation, the cells showed similar ROI formation and IL-2 secretion. Our results suggest that reduced IL-2 production by neonatal T cells is specific for anti-CD3 and anti-CD3+ anti-CD28-mediated stimulation and that these activators cannot effectively activate the ROI-NF-kappa B signalling pathway in neonatal T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kilpinen</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, University of Tampere Medical School, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurme</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunology</MedlineTA>
+            <NlmUniqueID>0374672</NlmUniqueID>
+            <ISSNLinking>0019-2805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018106">CD28 Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017252">CD3 Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007376">Interleukin-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1990;159:111-22</RefSource>
+                <PMID Version="1">2140764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1997 Mar;90(3):397-401</RefSource>
+                <PMID Version="1">9155647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1985 May;134(5):2983-8</RefSource>
+                <PMID Version="1">3156922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1987 Feb;43(1):128-33</RefSource>
+                <PMID Version="1">3569301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Feb;86(4):1333-7</RefSource>
+                <PMID Version="1">2465550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Apr 15;142(8):2583-9</RefSource>
+                <PMID Version="1">2564856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Lab Immunol. 1988 Oct;27(2):63-7</RefSource>
+                <PMID Version="1">3266760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1990;8:421-52</RefSource>
+                <PMID Version="1">2188669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 Jan 18;251(4991):313-6</RefSource>
+                <PMID Version="1">1846244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Apr 1;146(7):2088-94</RefSource>
+                <PMID Version="1">1826015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1991 Jan 25;19(2):249-56</RefSource>
+                <PMID Version="1">2014165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1992 Apr;4(2):227-32</RefSource>
+                <PMID Version="1">1599689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Dec 1;149(11):3448-55</RefSource>
+                <PMID Version="1">1431117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Mar 1;90(5):1696-700</RefSource>
+                <PMID Version="1">8383323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1993 Apr;4(4):329-39</RefSource>
+                <PMID Version="1">8098618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1993 Jun;91(6):2829-36</RefSource>
+                <PMID Version="1">8514891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Aug 15;82(4):1212-20</RefSource>
+                <PMID Version="1">8353285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1993 Jun;133:177-97</RefSource>
+                <PMID Version="1">8225366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1994;12:141-79</RefSource>
+                <PMID Version="1">8011280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1994 May;15(5):225-34</RefSource>
+                <PMID Version="1">8024683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1994 Aug 15;302 ( Pt 1):119-23</RefSource>
+                <PMID Version="1">8067997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1994 Sep;24(9):1956-60</RefSource>
+                <PMID Version="1">7522154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1994 Sep;24(9):1961-5</RefSource>
+                <PMID Version="1">8088316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1994 Oct;94(4):1352-8</RefSource>
+                <PMID Version="1">7929809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Oct 15;153(8):3378-85</RefSource>
+                <PMID Version="1">7930563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells. 1994;20(2-3):573-85; discussion 585-6</RefSource>
+                <PMID Version="1">7749123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 1995 Apr;18(4):775-94</RefSource>
+                <PMID Version="1">7750801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Aug 1;14(15):3731-40</RefSource>
+                <PMID Version="1">7641692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Immunol. 1995 Oct;102(1):192-8</RefSource>
+                <PMID Version="1">7554389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 1995 Sep 7;50(6):735-41</RefSource>
+                <PMID Version="1">7575632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 1995 Nov;7(11):1851-9</RefSource>
+                <PMID Version="1">8580083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Apr 5;272(5258):54-60</RefSource>
+                <PMID Version="1">8600537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1996 May;10(7):709-20</RefSource>
+                <PMID Version="1">8635688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1996 Apr;87(4):604-8</RefSource>
+                <PMID Version="1">8675216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1996 Jun;4(6):527-34</RefSource>
+                <PMID Version="1">8673699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1996;14:649-83</RefSource>
+                <PMID Version="1">8717528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Sep 6;86(5):787-98</RefSource>
+                <PMID Version="1">8797825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Res. 1996 Sep;40(3):475-83</RefSource>
+                <PMID Version="1">8865287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1991 Jan;87(1):194-202</RefSource>
+                <PMID Version="1">1824631</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000375" MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018106" MajorTopicYN="N">CD28 Antigens</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017252" MajorTopicYN="N">CD3 Complex</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018929" MajorTopicYN="N">Cell Culture Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005312" MajorTopicYN="N">Fetal Blood</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007376" MajorTopicYN="N">Interleukin-2</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017382" MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9741337</ArticleId>
+            <ArticleId IdType="pmc">PMC1364201</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

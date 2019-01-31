@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10192446</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1048</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of haematology</Title>
+                <ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Erythroid gene expression is differentially regulated by erythropoietin, haemin and delta-aminolaevulinic acid in UT-7 cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>829-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Erythropoietin (Epo) is essential for the later stages of erythropoiesis, acting to promote cell survival and proliferation, but its role in differentiation remains to be defined. The UT-7 cell line exhibits both erythroid and megakaryocytic characteristics and can be induced to differentiate along the erythroid pathway by Epo or the megakaryocytic pathway by phorbol myristic acetate. We have compared the effects of Epo and the chemical inducers, delta-aminolaevulinic acid (delta-ALA) and haemin on the differentiation capacity of UT-7 cells. Epo alone promoted relatively early events in erythroid maturation, without significant changes in haemoglobin production or morphology. GATA-2 and c-myb were down-regulated by Epo, and GATA-2 was further down-modulated by the inducers. Conversely, SCL expression was up-regulated by Epo and further increased by haemin and delta-ALA. Epo caused an increase in the proportion of cells expressing cell surface glycophorin A (GPA) and up-regulated beta- and gamma-globin by several fold. Both haemin and delta-ALA caused a de novo increase in alpha-globin expression as well as enhancing Epo-induced beta-globin expression, leading to a marked increase in haemoglobin production. These results suggest that haemoglobin production in UT-7 cells is limited by a deficiency of erythroid-specific aminolaevulinic acid synthase (ALAS-E) activity or globin synthesis as a consequence of their immaturity as a multipotential cell line.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McHale</LastName>
+                    <ForeName>C M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Haematology, The Queen's University of Belfast, Royal Victoria Hospital. c.mchale@qub.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winter</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lappin</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Haematol</MedlineTA>
+            <NlmUniqueID>0372544</NlmUniqueID>
+            <ISSNLinking>0007-1048</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006454">Hemoglobins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11096-26-7</RegistryNumber>
+                <NameOfSubstance UI="D004921">Erythropoietin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>743LRP9S7N</RegistryNumber>
+                <NameOfSubstance UI="D006427">Hemin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>88755TAZ87</RegistryNumber>
+                <NameOfSubstance UI="D000622">Aminolevulinic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9004-22-2</RegistryNumber>
+                <NameOfSubstance UI="D005914">Globins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000622" MajorTopicYN="N">Aminolevulinic Acid</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048429" MajorTopicYN="N">Cell Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015672" MajorTopicYN="N">Erythroid Precursor Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004921" MajorTopicYN="N">Erythropoietin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005914" MajorTopicYN="N">Globins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006427" MajorTopicYN="N">Hemin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006454" MajorTopicYN="N">Hemoglobins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10192446</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

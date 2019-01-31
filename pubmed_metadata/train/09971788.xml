@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9971788</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>73</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High-level replication of human immunodeficiency virus in thymocytes requires NF-kappaB activation through interaction with thymic epithelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2064-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have previously demonstrated that interaction of infected thymocytes with autologous thymic epithelial cells (TEC) is a prerequisite for a high level of human immunodeficiency virus type 1 (HIV-1) replication in thymocytes (M. Rothe, L. Chêne, M. Nugeyre, F. Barré-Sinoussi, and N. Israël, J. Virol. 72:5852-5861, 1998). We report here that this activation of HIV replication takes place at the transcriptional level through activation of the Rel/NF-kappaB transcription factors. We first demonstrate that an HIV-1 provirus (SF-2 strain) very effectively replicates in thymocytes cocultured with TEC whereas this provirus, with kappaB sites deleted, fails to replicate. We provide evidence that several NF-kappaB complexes are constitutively found in the nuclei of thymocytes either freshly isolated from the thymus or maintained in coculture with autologous or heterologous TEC. The prevalent complex is the heterodimer p50-p65. NF-kappaB activity is tightly correlated with the transcriptional activity of a long terminal repeat (LTR) of HIV-1 transfected in thymocytes. The cotransfection of this LTR with a mutated IkappaBalpha molecule formally demonstrates that LTR transactivation is regulated by members of the Rel/NF-kappaB family in thymocytes. We also showed that tumor necrosis factor (TNF) and to a lesser extent interleukin-1 (IL-1), secreted within the coculture, induce NF-kappaB activity and a correlative LTR transactivation. However IL-7, a crucial factor for thymopoiesis that is secreted mainly by TEC, is a necessary cofactor for NF-kappaB activation elicited by TNF or IL-1. Together, these data indicate that NF-kappaB activation, required for a high level of HIV replication in thymocytes, is regulated in a specific manner in the thymic microenvironment which provides the necessary cytokines: TNF, IL-1, and IL-7.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chêne</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unité de Biologie des Rétrovirus, Institut Pasteur, 75724 Paris Cedex 15, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nugeyre</LastName>
+                    <ForeName>M T</ForeName>
+                    <Initials>MT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barré-Sinoussi</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Israël</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007375">Interleukin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015851">Interleukin-7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Dec 1;88(11):4239-45</RefSource>
+                <PMID Version="1">8943859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Mar 15;158(6):2585-91</RefSource>
+                <PMID Version="1">9058790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1997 Mar;6(3):235-44</RefSource>
+                <PMID Version="1">9075924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 May 15;146(10):3452-6</RefSource>
+                <PMID Version="1">1827485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Jan 1;148(1):99-105</RefSource>
+                <PMID Version="1">1727878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 1992 Feb;89(2):297-301</RefSource>
+                <PMID Version="1">1734399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 1995 Jul;43(3):181-9</RefSource>
+                <PMID Version="1">7558935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Apr 2;93(7):2785-9</RefSource>
+                <PMID Version="1">8610118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Apr;70(4):2260-8</RefSource>
+                <PMID Version="1">8642652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1996;14:649-83</RefSource>
+                <PMID Version="1">8717528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Aug 30;271(35):21151-9</RefSource>
+                <PMID Version="1">8702885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1996 Jun;10(7):F9-16</RefSource>
+                <PMID Version="1">8805858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1996 Jun;10(7):717-27</RefSource>
+                <PMID Version="1">8805862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1995 Dec;148:97-114</RefSource>
+                <PMID Version="1">8825284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Jul;71(7):5495-504</RefSource>
+                <PMID Version="1">9188623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Jun 27;89(7):1033-41</RefSource>
+                <PMID Version="1">9215626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Aug;71(8):5713-22</RefSource>
+                <PMID Version="1">9223457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 1997 Apr;8(2):63-73</RefSource>
+                <PMID Version="1">9299584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 1997 Apr;8(2):75-82</RefSource>
+                <PMID Version="1">9299585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1997 Oct 1;90(7):2690-700</RefSource>
+                <PMID Version="1">9326236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1997 Oct;3(10):1102-9</RefSource>
+                <PMID Version="1">9334721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 1997 Oct;9(10):717-26</RefSource>
+                <PMID Version="1">9344502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1997 Nov;7(5):583-9</RefSource>
+                <PMID Version="1">9390682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 1997 Dec;9(6):397-404</RefSource>
+                <PMID Version="1">9405269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1997 Nov;110 ( Pt 22):2883-93</RefSource>
+                <PMID Version="1">9427296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 1992;5(1):94-101</RefSource>
+                <PMID Version="1">1738092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Jun 1;89(11):4864-8</RefSource>
+                <PMID Version="1">1594585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1992 Nov;77(3):362-8</RefSource>
+                <PMID Version="1">1335959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1993 Jul;7(7B):1354-63</RefSource>
+                <PMID Version="1">8330739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Oct 1;178(4):1151-63</RefSource>
+                <PMID Version="1">8376927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Oct;12(10):3879-91</RefSource>
+                <PMID Version="1">8404856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Oct 21;365(6448):767-70</RefSource>
+                <PMID Version="1">7692309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Oct 1;90(19):9125-9</RefSource>
+                <PMID Version="1">8415665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1993 Oct;9(10):1017-23</RefSource>
+                <PMID Version="1">8280476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1993 Dec;7(12):1601-5</RefSource>
+                <PMID Version="1">8286069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 May;68(5):3041-50</RefSource>
+                <PMID Version="1">7512158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Sep 1;153(5):1973-81</RefSource>
+                <PMID Version="1">8051402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1994 Nov;9(11):3289-97</RefSource>
+                <PMID Version="1">7936653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Jan 12;373(6510):117-22</RefSource>
+                <PMID Version="1">7529365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Jan 12;373(6510):123-6</RefSource>
+                <PMID Version="1">7816094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jan 27;267(5197):483-9</RefSource>
+                <PMID Version="1">7824947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Feb 9;373(6514):531-6</RefSource>
+                <PMID Version="1">7845467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1995 Apr;2(4):331-9</RefSource>
+                <PMID Version="1">7719938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 1995;58:1-27</RefSource>
+                <PMID Version="1">7741027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1995 Jun 1;10(11):2207-12</RefSource>
+                <PMID Version="1">7784065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1995 Jan;2(1):25-36</RefSource>
+                <PMID Version="1">7600300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Jun 30;268(5219):1906-9</RefSource>
+                <PMID Version="1">7541554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 1995 May-Jun;107(1-3):90-2</RefSource>
+                <PMID Version="1">7613223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1995;193:51-77</RefSource>
+                <PMID Version="1">7648878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Oct;15(10):5339-45</RefSource>
+                <PMID Version="1">7565683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Jul;72(7):5852-61</RefSource>
+                <PMID Version="1">9621046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1985 Feb 1;227(4686):484-92</RefSource>
+                <PMID Version="1">2578227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pathol Lab Med. 1986 Sep;110(9):837-42</RefSource>
+                <PMID Version="1">3755893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Apr;86(7):2336-40</RefSource>
+                <PMID Version="1">2494664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1989 Jul 11;17(13):5245-57</RefSource>
+                <PMID Version="1">2668878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Aug;86(15):5974-8</RefSource>
+                <PMID Version="1">2762307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1989 Nov;63(11):4919-24</RefSource>
+                <PMID Version="1">2795721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Nov 1;143(9):2917-22</RefSource>
+                <PMID Version="1">2572646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Dec 15;143(12):3956-60</RefSource>
+                <PMID Version="1">2574206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1990 Apr 16;88(2):197-205</RefSource>
+                <PMID Version="1">2189784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1990 Sep;48(3):205-12</RefSource>
+                <PMID Version="1">2144014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1990 Nov 15;145(10):3310-5</RefSource>
+                <PMID Version="1">1700006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Oct;87(20):7861-5</RefSource>
+                <PMID Version="1">2146676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Dec;9(13):4417-23</RefSource>
+                <PMID Version="1">2124973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1991 Apr 15;77(8):1699-705</RefSource>
+                <PMID Version="1">1707694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 1989;1(5):526-31</RefSource>
+                <PMID Version="1">2518727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1996 Nov 15;225(2):413-8</RefSource>
+                <PMID Version="1">8918929</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016325" MajorTopicYN="N">HIV Long Terminal Repeat</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007375" MajorTopicYN="N">Interleukin-1</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015851" MajorTopicYN="N">Interleukin-7</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="Y">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9971788</ArticleId>
+            <ArticleId IdType="pmc">PMC104450</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

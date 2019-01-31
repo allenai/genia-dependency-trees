@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1443130</PMID>
+        <DateCompleted>
+            <Year>1992</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9513</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>263</Volume>
+                    <Issue>5 Pt 1</Issue>
+                    <PubDate>
+                        <Year>1992</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Membrane receptors for aldosterone: a novel pathway for mineralocorticoid action.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E974-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Rapid nongenomic in vitro effects of aldosterone on intracellular electrolytes, cell volume, and Na(+)-H+ antiport have been found in human mononuclear leukocytes (HML). Binding of 125I-labeled aldosterone to plasma membranes of HML shares important features with these functional data. This includes a very low apparent dissociation constant (Kd) of 0.1 nM for both aldosterone and the effect on the Na(+)-H(+)-antiport, a high turnover rate, and the almost exclusive binding selectivity for aldosterone. Dexamethasone, RU 26988, corticosterone, ouabain, amiloride, and 18-hydroxyprogesterone were inactive as ligands. Deoxycorticosterone acetate had an intermediate activity with an apparent Kd of 100 nM. These findings are the first to demonstrate membrane binding of aldosterone being compatible with major aspects of its nongenomic effects.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wehling</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medizinische Klinik, University of Munich, Federal Republic of Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christ</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theisen</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol</MedlineTA>
+            <NlmUniqueID>0370511</NlmUniqueID>
+            <ISSNLinking>0002-9513</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008901">Mineralocorticoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018161">Receptors, Mineralocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>40GP35YQ49</RegistryNumber>
+                <NameOfSubstance UI="D003900">Desoxycorticosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4964P6T9RB</RegistryNumber>
+                <NameOfSubstance UI="D000450">Aldosterone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance UI="D006632">Histamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>87002-37-7</RegistryNumber>
+                <NameOfSubstance UI="C078230">aldosterone-3-(O-carboxymethyl)oximino-(2-iodohistamine)</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000450" MajorTopicYN="N">Aldosterone</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001667" MajorTopicYN="N">Binding, Competitive</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003900" MajorTopicYN="N">Desoxycorticosterone</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006632" MajorTopicYN="Y">Histamine</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008901" MajorTopicYN="N">Mineralocorticoids</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018161" MajorTopicYN="N">Receptors, Mineralocorticoid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1992</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1992</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1992</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1443130</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpendo.1992.263.5.E974</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

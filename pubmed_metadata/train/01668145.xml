@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1668145</PMID>
+        <DateCompleted>
+            <Year>1992</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1052-2166</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gene expression</Title>
+                <ISOAbbreviation>Gene Expr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Every enhancer works with every promoter for all the combinations tested: could new regulatory pathways evolve by enhancer shuffling?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>71-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The promoters and enhancers of cell type-specific genes are often conserved in evolution, and hence one might expect that a given enhancer has evolved to work best with its own promoter. While this expectation may be realized in some cases, we have not found evidence for it. A total of 27 combinations of different promoters and enhancers were tested by transfection into cultured cells. We found that the relative efficiency of the enhancers is approximately the same, irrespective of the type of promoter used, i.e., there was no strong preference for any given enhancer/promoter combination. Notably, we do not see particularly strong transcription when the immunoglobulin kappa enhancer (or the immunoglobulin heavy chain enhancer) is used to activate a kappa gene promoter. We propose that a generally permissive enhancer/promoter interaction is of evolutionary benefit for higher eukaryotes: by enhancer shuffling, genes could be easily brought under a new type of inducibility/cell type specificity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kermekchiev</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Molecular Biology II, University of Zurich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pettersson</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matthias</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaffner</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gene Expr</MedlineTA>
+            <NlmUniqueID>9200651</NlmUniqueID>
+            <ISSNLinking>1052-2166</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004274">DNA, Recombinant</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007145">Immunoglobulin kappa-Chains</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Apr;3(4):537-46</RefSource>
+                <PMID Version="1">2470646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1989 Sep 7;341(6237):24-5</RefSource>
+                <PMID Version="1">2671752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jul 28;58(2):227-9</RefSource>
+                <PMID Version="1">2665943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Apr 6;61(1):9-11</RefSource>
+                <PMID Version="1">2180585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 May 30-Jun 5;315(6018):423-5</RefSource>
+                <PMID Version="1">3923370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1981 Mar 26;290(5804):310-5</RefSource>
+                <PMID Version="1">6259539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Oct;4(10):1741-52</RefSource>
+                <PMID Version="1">2123466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Sep 7;62(5):1019-29</RefSource>
+                <PMID Version="1">2203532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1982 Jun;29(2):701-10</RefSource>
+                <PMID Version="1">7116454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1988 Sep;2(9):1089-100</RefSource>
+                <PMID Version="1">2461328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Dec 15;336(6200):692-5</RefSource>
+                <PMID Version="1">3143919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Jun 29;61(7):1161-4</RefSource>
+                <PMID Version="1">2194664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Aug 25;58(4):767-77</RefSource>
+                <PMID Version="1">2548735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Feb;81(4):1053-6</RefSource>
+                <PMID Version="1">6322185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Jan 16;48(1):121-8</RefSource>
+                <PMID Version="1">3098435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Aug 11;58(3):537-44</RefSource>
+                <PMID Version="1">2503252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1987 May 26;15(10):4163-78</RefSource>
+                <PMID Version="1">3588288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 May 6;53(3):451-61</RefSource>
+                <PMID Version="1">3365768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Jul;41(3):885-97</RefSource>
+                <PMID Version="1">3924411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1988 Dec;2(12B):1764-78</RefSource>
+                <PMID Version="1">2853685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Sep 7;62(5):1007-18</RefSource>
+                <PMID Version="1">2203531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hoppe Seylers Z Physiol Chem. 1984 Nov;365(11):1331-43</RefSource>
+                <PMID Version="1">6096254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1989;58:799-839</RefSource>
+                <PMID Version="1">2673023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1982 Feb 18;295(5850):568-72</RefSource>
+                <PMID Version="1">6276775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1984 Apr 5-11;308(5959):513-9</RefSource>
+                <PMID Version="1">6323998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Aug;9(8):2573-8</RefSource>
+                <PMID Version="1">1973384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 Jun;6(6):1685-90</RefSource>
+                <PMID Version="1">3111845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1986 Aug 29;46(5):705-16</RefSource>
+                <PMID Version="1">3091258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Jun 19;236(4808):1573-7</RefSource>
+                <PMID Version="1">3109035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Sep;4(9):1451-3</RefSource>
+                <PMID Version="1">2253872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Feb;9(2):481-7</RefSource>
+                <PMID Version="1">2303037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 Aug 29-Sep 4;316(6031):774-8</RefSource>
+                <PMID Version="1">4041012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1984 Sep 25;12(18):7035-56</RefSource>
+                <PMID Version="1">6091052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Sep;3(9):1288-300</RefSource>
+                <PMID Version="1">2558050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1987 Sep 11;15(17):6787-98</RefSource>
+                <PMID Version="1">3658668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1988 Jul;2(7):786-800</RefSource>
+                <PMID Version="1">2850264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 May;6(5):1323-30</RefSource>
+                <PMID Version="1">3038516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1989 Sep;3(9):1301-13</RefSource>
+                <PMID Version="1">2558051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Jul 28;245(4916):371-8</RefSource>
+                <PMID Version="1">2667136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1989 Nov;9(11):5093-104</RefSource>
+                <PMID Version="1">2601710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Nov 4;55(3):395-7</RefSource>
+                <PMID Version="1">3141060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1988 Oct 1;176(3):485-95</RefSource>
+                <PMID Version="1">3049082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Jul;33(3):741-8</RefSource>
+                <PMID Version="1">6409419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1986 Apr;5(4):719-24</RefSource>
+                <PMID Version="1">3458587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1983;2(8):1373-8</RefSource>
+                <PMID Version="1">10872333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Dec 8;336(6199):544-51</RefSource>
+                <PMID Version="1">2904653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1986 Aug 21-27;322(6081):697-701</RefSource>
+                <PMID Version="1">3018583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1986 Jul 24-30;322(6077):383-5</RefSource>
+                <PMID Version="1">3016550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Mar 20;235(4795):1498-501</RefSource>
+                <PMID Version="1">3029871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Nov;35(1):79-87</RefSource>
+                <PMID Version="1">6313230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1989 Jul;8(7):1959-64</RefSource>
+                <PMID Version="1">2507312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1987 Jun 5;236(4806):1237-45</RefSource>
+                <PMID Version="1">3296191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Oct 26;250(4980):528-32</RefSource>
+                <PMID Version="1">2237403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Jul;4(7):1224-39</RefSource>
+                <PMID Version="1">1976571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Jun;41(2):479-87</RefSource>
+                <PMID Version="1">3921262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1987 Sep 10-16;329(6135):174-8</RefSource>
+                <PMID Version="1">3627254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 1986 May-Jun;6(3 Pt B):437-49</RefSource>
+                <PMID Version="1">3527033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1989 Sep;14(9):365-8</RefSource>
+                <PMID Version="1">2688200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1985 Nov;4(11):2831-8</RefSource>
+                <PMID Version="1">2998757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Sep 11;50(6):963-74</RefSource>
+                <PMID Version="1">2887293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1988 Dec 20;7(13):4231-8</RefSource>
+                <PMID Version="1">2854058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Nov;83(22):8511-5</RefSource>
+                <PMID Version="1">3095838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 1990 Sep;6(9):300-4</RefSource>
+                <PMID Version="1">2238088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Dec;81(23):7392-6</RefSource>
+                <PMID Version="1">6095291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Jul;33(3):729-40</RefSource>
+                <PMID Version="1">6409418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Jul;33(3):717-28</RefSource>
+                <PMID Version="1">6409417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1981 Nov 25;9(22):6047-68</RefSource>
+                <PMID Version="1">6273820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 May;6(5):1481-91</RefSource>
+                <PMID Version="1">3301328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1984 Jan 5-11;307(5946):80-2</RefSource>
+                <PMID Version="1">6419128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1978 Feb 9;271(5645):501</RefSource>
+                <PMID Version="1">622185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1981 Dec;27(2 Pt 1):299-308</RefSource>
+                <PMID Version="1">6277502</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004274" MajorTopicYN="N">DNA, Recombinant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004742" MajorTopicYN="N">Enhancer Elements, Genetic</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005813" MajorTopicYN="N">Genes, Synthetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007145" MajorTopicYN="N">Immunoglobulin kappa-Chains</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013539" MajorTopicYN="N">Simian virus 40</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1668145</ArticleId>
+            <ArticleId IdType="pmc">PMC5952201</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

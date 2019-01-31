@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8895544</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0020-7136</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Sep</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of cancer</Title>
+                <ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interferons induce normal and aberrant retinoic-acid receptors type alpha in acute promyelocytic leukemia cells: potentiation of the induction of retinoid-dependent differentiation markers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-83</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Treatment of the acute promyelocytic (APL) cell line NB4 with interferon alpha (IFN(alpha)), as well as IFN(beta) and gamma, results in an increased expression of the transcripts coding for retinoic-acid receptor type alpha (RAR(alpha)) and the leukemia-specific retinoic acid receptor PML-RAR. Transcriptional induction of the RAR(alpha) and PML-RAR mRNAs is rapid and it is parallelled by an increase in the corresponding proteins. Up-regulation of RAR(alpha) and PML-RAR gene expression by IFN(alpha) is accompanied by a strong potentiation in the induction of 2 retinoid-dependent granulocytic markers, i.e., granulocyte-colony-stimulating factor receptor mRNA and leukocyte alkaline phosphatase. However, IFN(alpha) does not have any effects on the retinoid-dependent regulation of the myeloid surface markers CD11b and CD33. The IFN-dependent increase in RAR(alpha) levels and the enhancing effect of the cytokine on retinoid-dependent granulocytic markers expression may be a characteristic of PML-RAR positive cells, since the phenomena are not observed in HL-60 promyelocytes. Interferons as well as retinoids inhibit the growth of NB4 cells, although the 2 classes of compounds do not significantly interact in terms of anti-proliferative activity. These results suggest the possible use of combinations between IFNs and retinoic acid in the cyto-differentiating treatment of APL patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gianní</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Unit, Centro Catullo e Daniela Borgomainerio, Istituto di Ricerche Farmacologiche ¿Mario Negri¿, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zanotta</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terao</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rambaldi</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garattini</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int J Cancer</MedlineTA>
+            <NlmUniqueID>0042124</NlmUniqueID>
+            <ISSNLinking>0020-7136</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016898">Interferon-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018168">Receptors, Retinoic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012176">Retinoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>143011-72-7</RegistryNumber>
+                <NameOfSubstance UI="D016179">Granulocyte Colony-Stimulating Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1CC1JFE158</RegistryNumber>
+                <NameOfSubstance UI="D003609">Dactinomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5688UTC01R</RegistryNumber>
+                <NameOfSubstance UI="D014212">Tretinoin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>77238-31-4</RegistryNumber>
+                <NameOfSubstance UI="D016899">Interferon-beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance UI="D007371">Interferon-gamma</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9008-11-1</RegistryNumber>
+                <NameOfSubstance UI="D007372">Interferons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98600C0908</RegistryNumber>
+                <NameOfSubstance UI="D003513">Cycloheximide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.1</RegistryNumber>
+                <NameOfSubstance UI="D000469">Alkaline Phosphatase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000469" MajorTopicYN="N">Alkaline Phosphatase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="Y">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003513" MajorTopicYN="N">Cycloheximide</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003609" MajorTopicYN="N">Dactinomycin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004357" MajorTopicYN="N">Drug Synergism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016179" MajorTopicYN="N">Granulocyte Colony-Stimulating Factor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018922" MajorTopicYN="N">HL-60 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016898" MajorTopicYN="N">Interferon-alpha</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016899" MajorTopicYN="N">Interferon-beta</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007371" MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007372" MajorTopicYN="N">Interferons</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015473" MajorTopicYN="N">Leukemia, Promyelocytic, Acute</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007962" MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018168" MajorTopicYN="N">Receptors, Retinoic Acid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012176" MajorTopicYN="N">Retinoids</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014212" MajorTopicYN="N">Tretinoin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8895544</ArticleId>
+            <ArticleId IdType="pii">10.1002/(SICI)1097-0215(19960927)68:1&lt;75::AID-IJC14&gt;3.0.CO;2-5</ArticleId>
+            <ArticleId IdType="doi">10.1002/(SICI)1097-0215(19960927)68:1&lt;75::AID-IJC14&gt;3.0.CO;2-5</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

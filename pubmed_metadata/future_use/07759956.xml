@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7759956</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>06</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0741-5400</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>57</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of leukocyte biology</Title>
+                <ISOAbbreviation>J. Leukoc. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GM-CSF and IL-2 share common control mechanisms in response to costimulatory signals in T cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>767-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Antigen complexed with major histocompatibility complex class I or II molecules on the surface of antigen presenting cells interacts with the T cell receptor (TCR) on the surface of T cells and initiates an activation cascade. So called costimulatory signals, mediated by other cell surface interactions or soluble cytokines produced by antigen presenting cells, are also required for complete T cell activation. High levels of cytokine gene expression in T cells also required both TCR and costimulatory signals. The granulocyte-macrophage colony-stimulating factor requires sequences in the promoter as well as a powerful enhancer located 3kb upstream to respond to TCR-like signals. These promoter and enhancer regions are mainly activated by the transcription factor nuclear factor of activated T cells (NFAT). The activation of NFAT by TCR signals has been well described for interleukin-2 (IL-2) and IL-4 gene transcription in T cells. Costimulatory signals, such as activation of the CD28 cell surface molecule on T cells, lead to activation through a distinct region of the granulocyte-macrophage colony-stimulating factor (GM-CSF) promoter. This region is termed the CK-1 or CD28RE and appears to bind specific members of the NF-kappa B family of transcription factors. Human T leukemia virus type 1 (HTLV-1) infects T cells and can lead to increase GM-CSF expression. We have found that the HTLV-1 transactivator protein, tax, acts as a costimulatory signal for GM-CSF and IL-2 gene transcription, in that it can cooperate with TCR signals to mediate high level gene expression. Tax activates the GM-CSF promoter through the CK-1/CD28RE region and also activates nuclear factor-kappa B binding to this region. However, other transcription factors or coactivators of NF-kappa B are required for tax activation but these remain to be identified. The CK-1/CD28RE of GM-CSF shows a high degree of similarity to the IL-2 CD28RE and the IL-3 gene also contains a related region. This observation, together with the fact that both GM-CSF and IL-2 respond to TCR signals via NFAT, implies a high degree of conservation in the regulation of cytokine gene expression in T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shannon</LastName>
+                    <ForeName>M F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Human Immunology, Hanson Centre for Cancer Research, Institute of Medical and Veterinary Science, Adelaide, South Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Himes</LastName>
+                    <ForeName>S R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coles</LastName>
+                    <ForeName>L S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Leukoc Biol</MedlineTA>
+            <NlmUniqueID>8405628</NlmUniqueID>
+            <ISSNLinking>0741-5400</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018106">CD28 Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016356">Gene Products, tax</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007376">Interleukin-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007377">Interleukin-3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>83869-56-1</RegistryNumber>
+                <NameOfSubstance UI="D016178">Granulocyte-Macrophage Colony-Stimulating Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018106" MajorTopicYN="N">CD28 Antigens</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016356" MajorTopicYN="N">Gene Products, tax</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016178" MajorTopicYN="N">Granulocyte-Macrophage Colony-Stimulating Factor</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007376" MajorTopicYN="N">Interleukin-2</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007377" MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="Y">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>47</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7759956</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

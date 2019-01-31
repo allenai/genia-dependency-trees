@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7576301</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1011-8934</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of Korean medical science</Title>
+                <ISOAbbreviation>J. Korean Med. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Expression of the nucleoside diphosphate kinase in human skin cancers: an immunohistochemical study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>97-102</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Expression of nucleoside diphosphate(NDP) kinase, which is homologous to the nm23 gene product in a variety of species, has been found to be inversely associated with metastatic potential. However, the relationship remains controversial according to the tumor cell types and experimental system, with conflicting results from different research groups. In order to determine whether NDP kinase expression serves as a marker for metastatic potential in human skin cancer, we assessed the levels of NDP kinase expression in 9 keratoacanthomas (KAs), 26 squamous cell carcinomas (SCCs), and 25 basal cell carcinomas (BCCs) using immunohistochemistry. The expression of NDP kinase was intense in KA and SCC compared with BCC. However, the difference of NDP kinase expression between KA and SCC was not statistically significant. And there was no statistically significant difference in NDP kinase expression between SCC with metastasis and SCC without metastasis. Our results contradict the hypothesis concerning the possible role of nm23 gene as a metastatic suppressor gene in human skin cancer. The mechanism of overexpression in various tumor cell types and its biological significance in cutaneous carcinogenesis remain to be determined.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ro</LastName>
+                    <ForeName>Y S</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Dermatology, Hanyang University Hospital, Seoul, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeong</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>J Korean Med Sci</MedlineTA>
+            <NlmUniqueID>8703518</NlmUniqueID>
+            <ISSNLinking>1011-8934</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054778">NM23 Nucleoside Diphosphate Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.4.6</RegistryNumber>
+                <NameOfSubstance UI="C517938">NME1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.4.6</RegistryNumber>
+                <NameOfSubstance UI="D009701">Nucleoside-Diphosphate Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D020559">Monomeric GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <GeneSymbolList>
+            <GeneSymbol>nm23</GeneSymbol>
+        </GeneSymbolList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002280" MajorTopicYN="N">Carcinoma, Basal Cell</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004912" MajorTopicYN="N">Erythrocytes</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007636" MajorTopicYN="N">Keratoacanthoma</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020559" MajorTopicYN="Y">Monomeric GTP-Binding Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054778" MajorTopicYN="N">NM23 Nucleoside Diphosphate Kinases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009701" MajorTopicYN="N">Nucleoside-Diphosphate Kinase</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012871" MajorTopicYN="N">Skin Diseases</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012878" MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7576301</ArticleId>
+            <ArticleId IdType="pmc">PMC3054140</ArticleId>
+            <ArticleId IdType="doi">10.3346/jkms.1995.10.2.97</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

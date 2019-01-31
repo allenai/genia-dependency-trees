@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9277499</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9513</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>273</Volume>
+                    <Issue>2 Pt 2</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Distinct mechanisms for N-acetylcysteine inhibition of cytokine-induced E-selectin and VCAM-1 expression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>H817-26</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have examined the effects of N-acetyl-L-cysteine (NAC), a well-characterized, thiol-containing antioxidant, on agonist-induced monocytic cell adhesion to endothelial cells (EC). NAC inhibited interleukin-1 (IL-1 beta)-induced, but not basal, adhesion with 50% inhibition at approximately 20 mM. Monocytic cell adhesion to EC in response to tumor necrosis factor-alpha (TNF-alpha), lipopolysaccharide (LPS), alpha-thrombin, or phorbol 12-myristate 13-acetate (PMA) was similarly inhibited by NAC. Unlike published studies with pyrrolidinedithiocarbamate, which specifically inhibited vascular cell adhesion molecule 1 (VCAM-1), NAC inhibited IL-1 beta-induced mRNA and cell surface expression of both E-selectin and VCAM-1. NAC had no effect on the half-life of E-selectin or VCAM-1 mRNA. Although NAC reduced nuclear factor-kappa B (NF-kappa B) activation in EC as measured by gel-shift assays using an oligonucleotide probe corresponding to the consensus NF-kappa B binding sites of the VCAM-1 gene (VCAM-NF-kappa B), the antioxidant had no appreciable effect when an oligomer corresponding to the consensus NF-kappa B binding site of the E-selectin gene (E-selectin-NF-kappa B) was used. Because NF-kappa B has been reported to be redox sensitive, we studied the effects of NAC on the EC redox environment. NAC caused an expected dramatic increase in the reduced glutathione (GSH) levels in EC. In vitro studies demonstrated that whereas the binding affinity of NF-kappa B to the VCAM-NF-kappa B oligomer peaked at a GSH-to-oxidized glutathione (GSSG) ratio of approximately 200 and decreased at higher ratios, the binding to the E-selectin-NF-kappa B oligomer appeared relatively unaffected even at ratios &gt; 400, i.e., those achieved in EC treated with 40 mM NAC. These results suggest that NF-kappa B binding to its consensus sequences in the VCAM-1 and E-selectin gene exhibits marked differences in redox sensitivity, allowing for differential gene expression regulated by the same transcription factor. Our data also demonstrate that NAC increases the GSH-to-GSSG ratio within the EC suggesting one possible mechanism through which this antioxidant inhibits agonist-induced monocyte adhesion to EC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Faruqi</LastName>
+                    <ForeName>R M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell Biology, Cleveland Clinic Foundation, Ohio 44195, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poptic</LastName>
+                    <ForeName>E J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faruqi</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De La Motte</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DiCorleto</LastName>
+                    <ForeName>P E</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL-34727</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>M01-RR-00210</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol</MedlineTA>
+            <NlmUniqueID>0370511</NlmUniqueID>
+            <ISSNLinking>0002-9513</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019040">E-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007375">Interleukin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019010">Vascular Cell Adhesion Molecule-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GAN16C9B8O</RegistryNumber>
+                <NameOfSubstance UI="D005978">Glutathione</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>ULW86O013H</RegistryNumber>
+                <NameOfSubstance UI="D019803">Glutathione Disulfide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WYQ7N0BPYC</RegistryNumber>
+                <NameOfSubstance UI="D000111">Acetylcysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000111" MajorTopicYN="N">Acetylcysteine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019040" MajorTopicYN="N">E-Selectin</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004730" MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005796" MajorTopicYN="N">Genes</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005978" MajorTopicYN="N">Glutathione</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019803" MajorTopicYN="N">Glutathione Disulfide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007375" MajorTopicYN="N">Interleukin-1</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019010" MajorTopicYN="N">Vascular Cell Adhesion Molecule-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9277499</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.1997.273.2.H817</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

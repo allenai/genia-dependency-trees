@@ -1,0 +1,376 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8641805</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-9567</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of interleukin-10 on human peripheral blood mononuclear cell responses to Cryptococcus neoformans, Candida albicans, and lipopolysaccharide.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>945-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Deactivation of mononuclear phagocytes is critical to limit the inflammatory response but can be detrimental in the face of progressive infection. We compared the effects of the deactivating cytokine interleukin 10 (IL-10) on human peripheral blood mononuclear cell (PBMC) responses to lipopolysaccharide (LPS), Cryptococcus neoformans, and Candida albicans. IL-10 effected dose-dependent inhibition of tumor necrosis factor alpha (TNF-alpha) release in PBMC stimulated by LPS and C. neoformans, with significant inhibition seen with 0.1 U/ml and greater than 90% inhibition noted with 10 U/ml. In contrast, even at doses as high as 100 U/ml, IL-10 inhibited TNF-alpha release in response to C. albicans by only 50%. IL-10 profoundly inhibited release of IL-1beta from PBMC stimulated by all three stimuli. TNF-alpha mRNA and release was inhibited even if IL-10 was added up to 8 h after cryptococcal stimulation. In contrast, inhibition of IL-1 beta mRNA was of lesser magnitude and occurred only when IL-10 was added within 2 h of cryptococcal stimulation. IL-10 inhibited translocation of NF-kappaB in response to LPS but not the fungal stimuli. All three stimuli induced IL-10 production in PBMC, although over 10-fold less IL-10 was released in response to C. neoformans compared with LPS and C. albicans. Thus, while IL-10 has deactivating effects on PBMC responses to all three stimuli, disparate stimulus- and response-specific patterns of deactivation are seen. Inhibition by IL-10 of proinflammatory cytokine release appears to occur at the level of gene transcription for TNF-alpha and both transcriptionally and posttranscriptionally for IL-1beta.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Levitz</LastName>
+                    <ForeName>S M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Evans Memorial Department of Clinical Research, Boston University Medical Center Hospital, Massachusetts 02118, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tabuni</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nong</LastName>
+                    <ForeName>S H</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Golenbock</LastName>
+                    <ForeName>D T</ForeName>
+                    <Initials>DT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI 25780</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI 28408</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 47127</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007375">Interleukin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>130068-27-8</RegistryNumber>
+                <NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Oct;61(10):4452-61</RefSource>
+                <PMID Version="1">7691750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Infect Dis. 1991 Nov-Dec;13(6):1163-9</RefSource>
+                <PMID Version="1">1775849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Nov 15;151(10):5603-12</RefSource>
+                <PMID Version="1">8228249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Ser. 1994;60:505-15</RefSource>
+                <PMID Version="1">8251590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Ser. 1994;60:533-43</RefSource>
+                <PMID Version="1">8251592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Jan;62(1):194-202</RefSource>
+                <PMID Version="1">8262627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1994 Jan;55(1):35-42</RefSource>
+                <PMID Version="1">7904293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Jan 28;76(2):253-62</RefSource>
+                <PMID Version="1">8293462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 May;62(5):1975-81</RefSource>
+                <PMID Version="1">8168965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1994 May;55(5):682-4</RefSource>
+                <PMID Version="1">8182347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lymphokine Cytokine Res. 1994 Feb;13(1):47-54</RefSource>
+                <PMID Version="1">8186324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Jul;62(7):2761-72</RefSource>
+                <PMID Version="1">8005666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Jul 15;153(2):811-6</RefSource>
+                <PMID Version="1">8021515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Sep;62(9):4047-53</RefSource>
+                <PMID Version="1">7914883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Sep 2;269(35):22253-60</RefSource>
+                <PMID Version="1">7520914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Nov;68(11):6967-75</RefSource>
+                <PMID Version="1">7933078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Dec;62(12):5353-60</RefSource>
+                <PMID Version="1">7960114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1994 Nov 15;304 ( Pt 1):87-94</RefSource>
+                <PMID Version="1">7998962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Infect Dis. 1994 Dec;19(6):1029-33</RefSource>
+                <PMID Version="1">7888529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Apr 1;181(4):1473-9</RefSource>
+                <PMID Version="1">7535339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Apr 21;270(16):9558-63</RefSource>
+                <PMID Version="1">7721885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1992 Feb;8(2):191-7</RefSource>
+                <PMID Version="1">1540407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Mar 15;148(6):1792-6</RefSource>
+                <PMID Version="1">1541819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1992 Jun;22(6):1447-54</RefSource>
+                <PMID Version="1">1601035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1992 Oct;60(10):4003-8</RefSource>
+                <PMID Version="1">1398912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Feb 1;177(2):547-50</RefSource>
+                <PMID Version="1">8426124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1993 Apr;91(4):1490-8</RefSource>
+                <PMID Version="1">7682573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1993 May;23(5):1034-8</RefSource>
+                <PMID Version="1">8477799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1993 Jun;167(6):1358-63</RefSource>
+                <PMID Version="1">7684756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1993 Jun;91(6):2596-601</RefSource>
+                <PMID Version="1">8390485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Physiol (1985). 1993 May;74(5):2432-42</RefSource>
+                <PMID Version="1">8335578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1993 Jun 23;685:713-39</RefSource>
+                <PMID Version="1">8363277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Oct;61(10):4105-11</RefSource>
+                <PMID Version="1">8406799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1987 Nov;55(11):2783-8</RefSource>
+                <PMID Version="1">3312012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Apr 25;263(12):5502-4</RefSource>
+                <PMID Version="1">3258599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Apr;86(7):2336-40</RefSource>
+                <PMID Version="1">2494664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1989 Sep 21;321(12):794-9</RefSource>
+                <PMID Version="1">2671735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Dec 15;143(12):3956-60</RefSource>
+                <PMID Version="1">2574206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1990 Mar;58(3):639-45</RefSource>
+                <PMID Version="1">2407651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Sep 21;249(4975):1431-3</RefSource>
+                <PMID Version="1">1698311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1991 Feb;87(2):528-35</RefSource>
+                <PMID Version="1">1991837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Apr 25;266(12):7313-6</RefSource>
+                <PMID Version="1">1850405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Oct 15;266(29):19490-8</RefSource>
+                <PMID Version="1">1918061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 Nov 1;174(5):1209-20</RefSource>
+                <PMID Version="1">1940799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1992 Jan;60(1):183-8</RefSource>
+                <PMID Version="1">1729181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1993 Aug;5(4):518-23</RefSource>
+                <PMID Version="1">8216927</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002176" MajorTopicYN="N">Candida albicans</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003455" MajorTopicYN="N">Cryptococcus neoformans</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007375" MajorTopicYN="N">Interleukin-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000557" MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016753" MajorTopicYN="N">Interleukin-10</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000557" MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000557" MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8641805</ArticleId>
+            <ArticleId IdType="pmc">PMC173861</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

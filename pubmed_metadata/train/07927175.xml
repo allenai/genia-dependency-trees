@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7927175</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0367-6102</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>[Hokkaido igaku zasshi] The Hokkaido journal of medical science</Title>
+                <ISOAbbreviation>Hokkaido Igaku Zasshi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[An overexpression of retinoic acid receptor alpha blocks myeloid cell differentiation at the promyelocyte stage].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>466-75, 477</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Retinoic acid (RA), a vitamin A derivative, exerts a wide range of biological effects related to cell proliferation and differentiation. The pleiotropic effects of RA are thought to be mediated through specific nuclear RA receptors (RARs). RARs are members of the steroid/thyroid hormone receptor superfamily and exhibit a molecular structure that possess discrete DNA-binding and RA (ligand)-binding domains. In hematopoietic system, RA and RARs, predominantly RAR alpha may play key roles for the proliferation and differentiation of hematopoietic progenitors. However, it is currently unknown how RA and RARs are involved in regulating normal hematopoietic differentiation. To make clear the roles of RA and RAR alpha in the normal hematopoiesis, I have introduced the construct of human RAR alpha (hRAR alpha) into murine bone marrow cells with retroviral vector, and selected infected cells with drug resistant marker (Neo(r)) cultured on the stroma cell line (PA6-neo), and analyzed the behavior of infected cells. All of procedure were done in vitro. Most cells infected with hRAR alpha exhibited promyelocytic morphology and were thought to be blocked at the promyelocytic stage in their myeloid differentiation. Furthermore, these immature cells differentiated terminally into mature granulocytes by adding with RA (10(-6) M). RAR alpha infected cells were also able to differentiate into mature macrophages in the both of long term culture and IL3 colony. These observations suggest that an overexpression of RAR alpha alone is effective to suppress myeloid cell differentiation and RAR alpha plays a crucial role in the terminal differentiation of myeloid precursors. The system described here may serve as a model for studying the the essential genes for differentiation of normal bone marrow cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Onodera</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Hokkaido University School of Medicine, Sapporo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Hokkaido Igaku Zasshi</MedlineTA>
+            <NlmUniqueID>17410290R</NlmUniqueID>
+            <ISSNLinking>0367-6102</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018168">Receptors, Retinoic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001854" MajorTopicYN="Y">Bone Marrow Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="Y">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002455" MajorTopicYN="N">Cell Division</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005822" MajorTopicYN="N">Genetic Vectors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006098" MajorTopicYN="N">Granulocytes</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018168" MajorTopicYN="N">Receptors, Retinoic Acid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012190" MajorTopicYN="N">Retroviridae</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7927175</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

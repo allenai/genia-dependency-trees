@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8191547</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0039-128X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>59</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Steroids</Title>
+                <ISOAbbreviation>Steroids</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel aldosterone receptors: specificity-conferring mechanism at the level of the cell membrane.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>160-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Functional studies in extra-renal, nonepithelial cells such as smooth muscle cells and more recently circulating human lymphocytes have provided increasing evidence that aldosterone produces not only classical genomic effects, but also rapid non-genomic effects on transmembrane electrolyte movements. These involve activation of the sodium/proton-exchanger of the cell membrane at very low, physiological concentrations of aldosterone with an acute onset within 1-2 minutes. A second messenger cascade involved is the inositol-1,4,5-trisphosphate/calcium pathway which responds over the same rapid time course. Such changes clearly cannot be explained by genomic mechanisms, which are responsible for later effects than the membrane-related rapid responses. In addition to its rapid time course the unique characteristics of this new pathway for steroid action include a 10000-fold selectivity for aldosterone over cortisol and the ineffectiveness of spironolactones, classical mineralocorticoid antagonists, as antagonists of the response. Subsequently binding sites have been demonstrated in the plasma membrane of human lymphocytes which show pharmacological (aldosterone specificity) and kinetic (high turnover) properties identical with those of the rapid aldosterone effects in the same cells. SDS-PAGE analysis of the receptor protein has shown a molecular weight of approximately 50 kD. The present paper reviews the data supporting a new, two-step model for non-genomic and genomic aldosterone effects. It also suggests a novel specificity-conferring mechanism for mineralocorticoid action at the membrane level.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wehling</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medizinische Klinik, Klinikum Innenstadt, University of Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Steroids</MedlineTA>
+            <NlmUniqueID>0404536</NlmUniqueID>
+            <ISSNLinking>0039-128X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004573">Electrolytes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008901">Mineralocorticoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018161">Receptors, Mineralocorticoid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004573" MajorTopicYN="N">Electrolytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007963" MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008901" MajorTopicYN="N">Mineralocorticoids</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018161" MajorTopicYN="N">Receptors, Mineralocorticoid</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>21</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8191547</ArticleId>
+            <ArticleId IdType="pii">0039-128X(94)90095-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

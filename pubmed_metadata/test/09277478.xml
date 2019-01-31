@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9277478</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9513</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>273</Volume>
+                    <Issue>2 Pt 2</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>alpha-Tocopheryl succinate inhibits monocytic cell adhesion to endothelial cells by suppressing NF-kappa B mobilization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>H634-40</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The adherence of monocytes to activated endothelium is an early event in atherogenesis. Because antioxidants have been considered to be of antiatherosclerotic potential, we investigated the effects of alpha-tocopherol (TCP) and its acetate and succinate esters on monocyte adhesion to cytokine-stimulated human umbilical vein endothelial cells (HUVEC). Endothelial cells were treated with TCP, alpha-tocopherol acetate (TCP acetate), or alpha-tocopheryl succinate (TCP succinate) before stimulation with tumor necrosis factor-alpha (TNF-alpha; 10 U/ml, 6 h) or interleukin-1 beta (IL-1 beta; 10 U/ml, 6 h). Cytokine-stimulated cell surface expression of vascular cell adhesion molecule-1 (VCAM-1, CD106) and E-selectin (ELAM-1, CD62E), but not of intercellular adhesion molecule-1 (ICAM-1, CD54), was time- and dose-dependently inhibited by TCP succinate but not by TCP or TCP acetate. TCP succinate (200 microM, 24 h) reduced TNF-induced VCAM-1 and E-selectin expression from a specific mean fluorescence intensity of 151 +/- 28 to 12 +/- 4 channels and from 225 +/- 38 to 79 +/- 21 channels, respectively. Succinate alone had no effect. Decreased adhesion molecule expression was associated with a reduction of monocytic cell adhesion. TCP succinate (20 microM, 72 h), but not TCP (200 microM, 72 h), reduced U-937 cell adhesion to TNF-alpha-stimulated (10 U/ml, 6 h) HUVEC by 30% (P &lt; 0.025) and to IL-1 beta-stimulated HUVEC by 56% (P &lt; 0.010). Electrophoretic mobility-shift assays of HUVEC nuclear proteins revealed a decrease in TNF-alpha-stimulated nuclear factor-kappa B (NF-kappa B) activation after pretreatment of HUVEC with TCP succinate but not with TCP, TCP acetate, or succinate alone. In conclusion, we demonstrate that the vitamin E derivative TCP succinate prevents monocytic cell adhesion to cytokine-stimulated endothelial cells by inhibiting the activation of NF-kappa B, further emphasizing the antiatherosclerotic potential of lipid soluble antioxidants.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Erl</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut für Prophylaxe und Epidemiologie der Kreislaufkrankheiten, Ludwig-Maximilians-Universität, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wardemann</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol</MedlineTA>
+            <NlmUniqueID>0370511</NlmUniqueID>
+            <ISSNLinking>0002-9513</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015815">Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-18-4</RegistryNumber>
+                <NameOfSubstance UI="D014810">Vitamin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>R0ZB2556P8</RegistryNumber>
+                <NameOfSubstance UI="D024505">Tocopherols</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015815" MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004730" MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024505" MajorTopicYN="N">Tocopherols</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014810" MajorTopicYN="N">Vitamin E</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9277478</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajpheart.1997.273.2.H634</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

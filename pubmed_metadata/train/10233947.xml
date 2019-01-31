@@ -1,0 +1,498 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10233947</PMID>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>73</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Immortalization of CD4(+) and CD8(+) T lymphocytes by human T-cell leukemia virus type 1 Tax mutants expressed in a functional molecular clone.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4856-65</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The human T-cell leukemia virus type 1 (HTLV-1) transcriptional trans-activator Tax has been demonstrated to have transforming activity in multiple cell culture and transgenic-mouse models. In addition to activating transcription from the viral long terminal repeat (LTR) through the cyclic AMP response element binding protein/activating transcription factor (CREB/ATF) family of transcription factors, Tax activates the expression of multiple cellular promoters through the NF-kappaB pathway of transcriptional activation. The Tax mutants M22 and M47 have previously been demonstrated to selectively abrogate the ability of Tax to activate transcription through the NF-kappaB or CREB/ATF pathway, respectively. These mutations were introduced in the tax gene of the ACH functional molecular clone of HTLV-1, and virus produced from the mutant ACH clones was examined for the ability to replicate and immortalize primary human lymphocytes. While virus derived from the clone containing the M47 mutation retained the ability to immortalize T lymphocytes, the M22 mutant lost the ability to immortalize infected cells. These results indicate that activation of the CREB/ATF pathway by Tax is dispensable for the immortalization of T cells by HTLV-1, whereas activation of the NF-kappaB pathway may be critical.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Robek</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Medicine, Pathology, and Molecular Microbiology, Washington University School of Medicine, St. Louis, Missouri 63110, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ratner</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA64317</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM07076</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017362">Cyclic AMP Response Element-Binding Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016356">Gene Products, tax</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 1992;16(5):435-41</RefSource>
+                <PMID Version="1">1625468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1992 Sep;7(9):1737-42</RefSource>
+                <PMID Version="1">1501885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Nov;66(11):6496-501</RefSource>
+                <PMID Version="1">1404600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1992 Nov;6(11):2066-76</RefSource>
+                <PMID Version="1">1427072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Dec;66(12):7183-92</RefSource>
+                <PMID Version="1">1433511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Dec 11;258(5089):1792-5</RefSource>
+                <PMID Version="1">1299224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1993 Sep;8(9):2391-7</RefSource>
+                <PMID Version="1">8361755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Apr 26;91(9):3584-8</RefSource>
+                <PMID Version="1">8170951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1994 Aug;14(8):5371-83</RefSource>
+                <PMID Version="1">8035815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1997 May 1;14(17):2071-8</RefSource>
+                <PMID Version="1">9160887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Oct 24;272(43):27411-21</RefSource>
+                <PMID Version="1">9341193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 31;278(5339):860-6</RefSource>
+                <PMID Version="1">9346484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Nov 11;94(23):12592-7</RefSource>
+                <PMID Version="1">9356494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Jan;72(1):633-40</RefSource>
+                <PMID Version="1">9420268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Feb;72(2):1165-70</RefSource>
+                <PMID Version="1">9445014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 Aug;84(15):5389-93</RefSource>
+                <PMID Version="1">3037548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Aug;70(8):5194-202</RefSource>
+                <PMID Version="1">8764028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Oct;70(10):7241-6</RefSource>
+                <PMID Version="1">8794375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 Dec;16(12):7098-108</RefSource>
+                <PMID Version="1">8943365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Dec;70(12):8368-74</RefSource>
+                <PMID Version="1">8970957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Jan;71(1):337-44</RefSource>
+                <PMID Version="1">8985355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Feb;71(2):1181-90</RefSource>
+                <PMID Version="1">8995640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Mar;71(3):1956-62</RefSource>
+                <PMID Version="1">9032327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1997 May 1;89(9):3303-14</RefSource>
+                <PMID Version="1">9129036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1997 Apr 28;231(1):135-40</RefSource>
+                <PMID Version="1">9143312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Jun;71(6):4445-51</RefSource>
+                <PMID Version="1">9151835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Apr;18(4):2392-405</RefSource>
+                <PMID Version="1">9528808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Apr 3;93(1):81-91</RefSource>
+                <PMID Version="1">9546394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Jun;18(6):3620-32</RefSource>
+                <PMID Version="1">9584203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 May 29;93(5):875-84</RefSource>
+                <PMID Version="1">9630230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Aug;72(8):6348-55</RefSource>
+                <PMID Version="1">9658074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Aug 18;95(17):10106-11</RefSource>
+                <PMID Version="1">9707608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Sep;18(9):5052-61</RefSource>
+                <PMID Version="1">9710589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Sep;18(9):5157-65</RefSource>
+                <PMID Version="1">9710600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Nov;72(11):8852-60</RefSource>
+                <PMID Version="1">9765430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Jun 23;333(6175):776-8</RefSource>
+                <PMID Version="1">2838755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Sep 23;241(4873):1652-5</RefSource>
+                <PMID Version="1">2843985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Oct 20;335(6192):738-40</RefSource>
+                <PMID Version="1">3262832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 May;86(9):3351-5</RefSource>
+                <PMID Version="1">2541443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1989 May 12;119(2):203-10</RefSource>
+                <PMID Version="1">2470825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Mar 2;247(4946):1082-4</RefSource>
+                <PMID Version="1">2309119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Mar 23;60(6):991-7</RefSource>
+                <PMID Version="1">2180580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1998 Feb;18(2):721-31</RefSource>
+                <PMID Version="1">9447968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Mar 20;273(12):6698-703</RefSource>
+                <PMID Version="1">9506967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1980 Dec;77(12):7415-9</RefSource>
+                <PMID Version="1">6261256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1981 Sep;58(3):645-7</RefSource>
+                <PMID Version="1">6455129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1981 Oct;78(10):6476-80</RefSource>
+                <PMID Version="1">7031654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1983 Oct;131(4):2021-4</RefSource>
+                <PMID Version="1">6311905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1985 Aug 16;229(4714):675-9</RefSource>
+                <PMID Version="1">2992082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1985 Aug 24;2(8452):407-10</RefSource>
+                <PMID Version="1">2863442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 Dec 12-18;318(6046):571-4</RefSource>
+                <PMID Version="1">2999613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hematol Oncol. 1986 Jan-Mar;4(1):67-81</RefSource>
+                <PMID Version="1">3009299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1986 May 3;1(8488):1031-2</RefSource>
+                <PMID Version="1">2871307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1986 Mar;5(3):561-5</RefSource>
+                <PMID Version="1">3011413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1986 Nov;5(11):2883-8</RefSource>
+                <PMID Version="1">3024966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1986 Dec 15;209(2):187-90</RefSource>
+                <PMID Version="1">3025015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 Jun;84(11):3653-7</RefSource>
+                <PMID Version="1">3035544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1994 Nov 1;204(2):656-64</RefSource>
+                <PMID Version="1">7941334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1994 Dec 12;356(1):94-100</RefSource>
+                <PMID Version="1">7988730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Mar;69(3):1834-41</RefSource>
+                <PMID Version="1">7853524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1995 Feb 1;206(2):1066-74</RefSource>
+                <PMID Version="1">7856081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 May 19;270(20):11745-8</RefSource>
+                <PMID Version="1">7744820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Jun;69(6):3420-32</RefSource>
+                <PMID Version="1">7745688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 May 26;270(21):12814-22</RefSource>
+                <PMID Version="1">7759537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Oct;69(10):6297-303</RefSource>
+                <PMID Version="1">7666530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Dec 1;270(48):28503-6</RefSource>
+                <PMID Version="1">7499359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1995 Dec 27;377(3):413-8</RefSource>
+                <PMID Version="1">8549766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Feb 15;15(4):873-87</RefSource>
+                <PMID Version="1">8631308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Apr;70(4):2101-6</RefSource>
+                <PMID Version="1">8642630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Apr 18;380(6575):642-6</RefSource>
+                <PMID Version="1">8602268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 May;16(5):2083-90</RefSource>
+                <PMID Version="1">8628274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 May;16(5):2174-82</RefSource>
+                <PMID Version="1">8628284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Apr 1;15(7):1607-14</RefSource>
+                <PMID Version="1">8612584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1996 Jun;16(6):3156-68</RefSource>
+                <PMID Version="1">8649426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 May 23;381(6580):328-31</RefSource>
+                <PMID Version="1">8692272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 Nov;64(11):5682-7</RefSource>
+                <PMID Version="1">1976827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1990 Nov;4(11):1875-85</RefSource>
+                <PMID Version="1">2276622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1991 Sep;88(3):1038-42</RefSource>
+                <PMID Version="1">1832173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Dec 20;67(6):1075-87</RefSource>
+                <PMID Version="1">1760839</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015496" MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018414" MajorTopicYN="N">CD8-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002472" MajorTopicYN="Y">Cell Transformation, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017362" MajorTopicYN="N">Cyclic AMP Response Element-Binding Protein</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016356" MajorTopicYN="N">Gene Products, tax</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016355" MajorTopicYN="Y">Genes, pX</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015368" MajorTopicYN="N">Human T-lymphotropic virus 1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020079" MajorTopicYN="N">Terminal Repeat Sequences</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014771" MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10233947</ArticleId>
+            <ArticleId IdType="pmc">PMC112529</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

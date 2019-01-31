@@ -1,0 +1,482 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7494272</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oncogenicity of human papillomavirus- or adenovirus-transformed cells correlates with resistance to lysis by natural killer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7639-47</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The reasons for the dissimilar oncogenicities of human adenoviruses and human papillomaviruses (HPV) in humans are unknown but may relate to differences in the capacities of the E1A and E7 proteins to target cells for rejection by the host natural killer (NK) cell response. As one test of this hypothesis, we compared the abilities of E1A- and E7-expressing human fibroblastic or keratinocyte-derived human cells to be selectively killed by either unstimulated or interferon (IFN)-activated NK cells. Cells expressing the E1A oncoprotein were selectively killed by unstimulated NK cells, while the same parental cells but expressing the HPV type 16 (HPV-16) or HPV-18 E7 oncoprotein were resistant to NK cell lysis. The ability of IFN-activated NK cells to selectively kill virally transformed cells depends on IFN's ability to induce resistance to NK cell lysis in normal (i.e., non-viral oncogene-expressing) but not virally transformed cells. E1A blocked IFN's induction of cytolytic resistance, resulting in the selective lysis of adenovirus-transformed cells by IFN-activated NK cells. The extent of IFN-induced NK cell killing of E1A-expressing cells was proportional to the level of E1A expression and correlated with the ability of E1A to block IFN-stimulated gene expression in target cells. In contrast, E7 blocked neither IFN-stimulated gene expression nor IFN's induction of cytolytic resistance, thereby precluding the selective lysis of HPV-transformed cells by IFN-activated NK cells. In conclusion, E1A expression marks cells for destruction by the host NK cell response, whereas the E7 oncoprotein lacks this activity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Routes</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, National Jewish Center for Immunology and Respiratory Medicine, Denver, Colorado 80206, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI-32136</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017500">Adenovirus E1A Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016898">Interferon-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009856">Oncogene Proteins, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050725">Papillomavirus E7 Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C059731">oncogene protein E7, Human papillomavirus type 16</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1990 Jul 31;170(2):793-9</RefSource>
+                <PMID Version="1">1696477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Dec 21;63(6):1129-36</RefSource>
+                <PMID Version="1">2175676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Jan;65(1):473-8</RefSource>
+                <PMID Version="1">1845902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Jun;65(6):3083-94</RefSource>
+                <PMID Version="1">1827845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 1991 Aug;136(1):155-64</RefSource>
+                <PMID Version="1">1647881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Aug 1;88(15):6491-5</RefSource>
+                <PMID Version="1">1830664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Sep 1;88(17):7459-63</RefSource>
+                <PMID Version="1">1652751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Sep 15;88(18):7913-7</RefSource>
+                <PMID Version="1">1654549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Oct 15;88(20):9077-81</RefSource>
+                <PMID Version="1">1833772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1985 Nov;5(11):3084-91</RefSource>
+                <PMID Version="1">2943983</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Sep;83(18):6965-9</RefSource>
+                <PMID Version="1">2944117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1986 Dec;6(12):4493-8</RefSource>
+                <PMID Version="1">3796608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 Feb 15;138(4):1215-20</RefSource>
+                <PMID Version="1">3027174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Mar;61(3):787-95</RefSource>
+                <PMID Version="1">3027405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Apr;61(4):962-71</RefSource>
+                <PMID Version="1">3029430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1987 Mar;84(5):1356-60</RefSource>
+                <PMID Version="1">2950523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Jul;61(7):2155-61</RefSource>
+                <PMID Version="1">3495670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Obstet Gynaecol. 1987 Sep;94(9):901-6</RefSource>
+                <PMID Version="1">2822078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Nov;61(11):3510-20</RefSource>
+                <PMID Version="1">2959793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 May 6;53(3):341-6</RefSource>
+                <PMID Version="1">3365766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 May 20;53(4):539-47</RefSource>
+                <PMID Version="1">2836062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1988 Nov;8(11):4799-807</RefSource>
+                <PMID Version="1">2974921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1988 Sep;8(9):3955-9</RefSource>
+                <PMID Version="1">2975755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiol Rev. 1988;10:122-63</RefSource>
+                <PMID Version="1">2852116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1989 Feb 15;43(2):209-14</RefSource>
+                <PMID Version="1">2537261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1989 Feb;4(2):153-8</RefSource>
+                <PMID Version="1">2538790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Jun 1;142(11):4022-6</RefSource>
+                <PMID Version="1">2541204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Jan;13(1):690-702</RefSource>
+                <PMID Version="1">7678055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1993 Mar;8(3):625-35</RefSource>
+                <PMID Version="1">8437846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 May 15;150(10):4315-22</RefSource>
+                <PMID Version="1">7683316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Jun;67(6):3176-81</RefSource>
+                <PMID Version="1">8497046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1993 Jul;7(10):872-9</RefSource>
+                <PMID Version="1">8393818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1994 Apr;9(4):1187-93</RefSource>
+                <PMID Version="1">8134121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1991 Nov 22;254(5035):1167-73</RefSource>
+                <PMID Version="1">1659743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1992 Jan 15;52(2):456-63</RefSource>
+                <PMID Version="1">1345813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1992 Apr 9;326(15):988-93</RefSource>
+                <PMID Version="1">1312224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Apr;66(4):1884-90</RefSource>
+                <PMID Version="1">1548745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 May 7;357(6373):82-5</RefSource>
+                <PMID Version="1">1533443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Surv. 1992;12:161-95</RefSource>
+                <PMID Version="1">1353412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Aug 15;89(16):7742-6</RefSource>
+                <PMID Version="1">1457005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Oct 1;149(7):2372-7</RefSource>
+                <PMID Version="1">1382100</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Dec;66(12):6893-902</RefSource>
+                <PMID Version="1">1331501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Cancer Res. 1972;15:1-55</RefSource>
+                <PMID Version="1">4333789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1977 Dec 15;270(5638):611-3</RefSource>
+                <PMID Version="1">593387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1979 Dec;76(12):6606-10</RefSource>
+                <PMID Version="1">293748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1980 Sep;105(2):537-50</RefSource>
+                <PMID Version="1">7423858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Symp Quant Biol. 1980;44 Pt 1,:703-13</RefSource>
+                <PMID Version="1">6933049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1980 Sep;77(9):5201-5</RefSource>
+                <PMID Version="1">6159641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1980 Nov;77(11):6773-7</RefSource>
+                <PMID Version="1">6256760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1982 Dec 15;30(6):795-803</RefSource>
+                <PMID Version="1">6298123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1984 Mar;132(3):1578-82</RefSource>
+                <PMID Version="1">6319497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1984 May 11;224(4649):612-5</RefSource>
+                <PMID Version="1">6710160</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1984;110:1-22</RefSource>
+                <PMID Version="1">6478854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1984 Oct 1;160(4):1147-69</RefSource>
+                <PMID Version="1">6434688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1985 Jan 4;227(4682):15-20</RefSource>
+                <PMID Version="1">3843807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 Mar 7-13;314(6006):111-4</RefSource>
+                <PMID Version="1">2983228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1985 Jun;119(3):361-6</RefSource>
+                <PMID Version="1">2990217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1985 Sep;55(3):533-46</RefSource>
+                <PMID Version="1">3894685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1985 Nov;135(5):3537-41</RefSource>
+                <PMID Version="1">2413125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1985 Dec;147(2):413-21</RefSource>
+                <PMID Version="1">3878030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Jul;83(13):4680-4</RefSource>
+                <PMID Version="1">3014503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Res. 1993 Dec;13(6):423-6</RefSource>
+                <PMID Version="1">8151137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1994 Jun;9(6):1781-90</RefSource>
+                <PMID Version="1">8183577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1994 Jun 1;8(11):1285-99</RefSource>
+                <PMID Version="1">7926731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1994 Jun 1;8(11):1300-10</RefSource>
+                <PMID Version="1">7986270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1995 Jul 10;210(2):421-8</RefSource>
+                <PMID Version="1">7618277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 May 30;161(1):305-11</RefSource>
+                <PMID Version="1">2543412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1989 Jul 19;81(14):1080-5</RefSource>
+                <PMID Version="1">2544741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jul 28;58(2):249-55</RefSource>
+                <PMID Version="1">2546678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1989 Oct;63(10):4417-21</RefSource>
+                <PMID Version="1">2476573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Dec 15;143(12):4282-6</RefSource>
+                <PMID Version="1">2512355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 Mar;64(3):1353-6</RefSource>
+                <PMID Version="1">2154613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Jun 1;61(5):777-85</RefSource>
+                <PMID Version="1">2140528</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017500" MajorTopicYN="N">Adenovirus E1A Proteins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000260" MajorTopicYN="N">Adenoviruses, Human</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002471" MajorTopicYN="Y">Cell Transformation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003602" MajorTopicYN="Y">Cytotoxicity, Immunologic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006367" MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016898" MajorTopicYN="N">Interferon-alpha</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015603" MajorTopicYN="N">Keratinocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007694" MajorTopicYN="N">Killer Cells, Natural</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009856" MajorTopicYN="N">Oncogene Proteins, Viral</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027383" MajorTopicYN="N">Papillomaviridae</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050725" MajorTopicYN="N">Papillomavirus E7 Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7494272</ArticleId>
+            <ArticleId IdType="pmc">PMC189704</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

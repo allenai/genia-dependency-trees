@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9715966</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0095-6562</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Aviation, space, and environmental medicine</Title>
+                <ISOAbbreviation>Aviat Space Environ Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Specific glucocorticoid binding at different levels of human motor activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>771-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We studied the number of glucocorticoid receptors and dissociation constant in isolated human lymphocytes as well as blood concentrations of hormones produced by the hypothalamic-hypophyseal-adrenocortical system in three experimental series: at normal (17 subjects), decreased (10 subjects, a 360-d head-down bed rest) and increased (8 subjects, physical exercise on bicycle ergometer) levels of motor activity. In the first series we found that the number of glucocorticoid receptors and dissociation constant did not depend on the season, on the age of subjects nor on cortisol concentrations in blood. In the second series we observed the following: at the end of the first month of bed rest the number of glucocorticoid receptors and receptor affinity significantly increased; at the beginning of the third month of bed rest specific glucocorticoid binding significantly decreased and circadian rhythms of adrenocorticotropin and cortisol in blood varied markedly; at the end of the sixth month of bed rest the number of glucocorticoid receptors returned to prebed rest levels and dissociation constant decreased. In the third series physical exercises that induced an activation of the hypothalamic-hypophyseal-adrenocortical system (maximal physical exercises and prolonged submaximal exercises at 70% of maximal oxygen uptake) led to a significant increase in the number of glucocorticoid receptors without changes of dissociation constant. These results indicate that both a decrease and an increase of human motor activity resulted in significant changes of specific glucocorticoid binding which were not influenced by changes of circulating hormone concentrations in blood but by some other factors affected by physical activity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vorobiev</LastName>
+                    <ForeName>D V</ForeName>
+                    <Initials>DV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Scientific Centre, Institute of Biomedical Problems, Moscow, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grigoriev</LastName>
+                    <ForeName>A I</ForeName>
+                    <Initials>AI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Aviat Space Environ Med</MedlineTA>
+            <NlmUniqueID>7501714</NlmUniqueID>
+            <ISSNLinking>0095-6562</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011965">Receptors, Glucocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-60-2</RegistryNumber>
+                <NameOfSubstance UI="D000324">Adrenocorticotropic Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>S</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000222" MajorTopicYN="N">Adaptation, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000324" MajorTopicYN="N">Adrenocorticotropic Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001510" MajorTopicYN="N">Bed Rest</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002940" MajorTopicYN="N">Circadian Rhythm</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015444" MajorTopicYN="N">Exercise</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005080" MajorTopicYN="N">Exercise Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007030" MajorTopicYN="N">Hypothalamo-Hypophyseal System</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008214" MajorTopicYN="N">Lymphocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009068" MajorTopicYN="N">Movement</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010913" MajorTopicYN="N">Pituitary-Adrenal System</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011965" MajorTopicYN="Y">Receptors, Glucocorticoid</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9715966</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
