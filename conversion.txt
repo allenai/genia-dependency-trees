@@ -1,0 +1,2 @@
+java -cp parser/stanford-parser.jar -mx1g edu.stanford.nlp.trees.EnglishGrammaticalStructure -basic -keepPunct -conllx -treeFile train.trees > train.conllu.stanford
+java -cp parser/stanford-parser.jar -mx1g edu.stanford.nlp.trees.ud.UniversalDependenciesConverter -treeFile train.trees > train.conllu
